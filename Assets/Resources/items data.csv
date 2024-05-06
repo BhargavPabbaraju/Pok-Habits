@@ -1,0 +1,651 @@
+﻿ID,Name,row,col,Category,Desc,Price,Effect
+1,Beast Ball,0,0,Balls,A special Poké Ball designed to catch Ultra Beasts.,1000_S,BALL_1
+2,Cherish Ball,0,1,Balls,A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.,1000_P,BALL_2
+3,Dive Ball,0,2,Balls,A somewhat different Poké Ball that works especially well on Pokémon that live underwater.,100_S,BALL_3
+4,Poké Ball (Hisui),0,3,Balls,A mysterious ball that can be thrown at wild Pokémon in order to catch them. These balls can be crafted by hand if you gather the necessary materials.,100_B,BALL_4
+5,Dream Ball,1,0,Balls,A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they’re asleep.,50_S,BALL_5
+6,Dusk Ball,1,1,Balls,A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places such as caves.,100_G,BALL_6
+7,Fast Ball,1,2,Balls,A Poké Ball that makes it easier to catch Pokémon which are quick to run away.,150_S,BALL_7
+8,Great Ball (Hisui),1,3,Balls,"A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.",150_B,BALL_8
+9,Friend Ball,2,0,Balls,A strange Poké Ball that will make the wild Pokémon caught with it more friendly toward you immediately.,150_G,BALL_9
+10,Great Ball,2,1,Balls,A mysterious ball that provides a higher success rate for catching Pokémon than a standard Poké Ball,100_S,BALL_10
+11,Heal Ball,2,2,Balls,A remedial Poké Ball that restores the caught Pokémon’s HP and eliminates any status problem.,300_S,BALL_11
+12,Ultra Ball (Hisui),2,3,Balls,A mysterious ball that provides an even higher success rate for catching Pokémon than a Great Ball does.,300_B,BALL_12
+13,Heavy Ball,3,0,Balls,A Poké Ball that is better than usual at catching very heavy Pokémon.,150_G,BALL_13
+14,Level Ball,3,1,Balls,A Poké Ball for catching Pokémon that are a lower level than your own.,150_G,BALL_14
+15,Love Ball,3,2,Balls,A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon.,150_G,BALL_15
+16,Heavy Ball (Hisui),3,3,Balls,"A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon.",120_B,BALL_16
+17,Lure Ball,4,0,Balls,A Poké Ball that is good for catching Pokémon that you reel in with a Rod while out fishing.,150_G,BALL_17
+18,Luxury Ball,4,1,Balls,A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.,1000_B,BALL_18
+19,Master Ball,4,2,Balls,A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.,9999_G,BALL_19
+20,Leaden Ball,4,3,Balls,"An improvement on the original Heavy Ball design. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon.",320_B,BALL_20
+21,Moon Ball,5,0,Balls,A Poké Ball that will make it easier to catch Pokémon that can evolve using a Moon Stone.,150_G,BALL_21
+22,Nest Ball,5,1,Balls,A somewhat different Poké Ball that becomes more effective the lower the level of the wild Pokémon.,30_S,BALL_22
+23,Net Ball,5,2,Balls,A somewhat different Poké Ball that is more effective when attempting to catch Water- or Bug-type Pokémon.,30_G,BALL_23
+24,Gigaton Ball,5,3,Balls,"The ultimate iteration of the Heavy Ball. A ball that is too heavy to fly high or far, but it is highly effective if you manage to hit an unsuspecting Pokémon.",500_B,BALL_24
+25,Park Ball,6,0,Balls,A special Poké Ball for the Pal Park.,50_S,BALL_25
+26,Poke Ball,6,1,Balls,"A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target.",10_S,BALL_26
+27,Premier Ball,6,2,Balls,A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.,500_G,BALL_27
+28,Feather Ball,6,3,Balls,A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.,140_B,BALL_28
+29,Quick Ball,7,0,Balls,A somewhat different Poké Ball that has a more successful catch rate if used at the start of a wild encounter.,100_G,BALL_29
+30,Repeat Ball,7,1,Balls,A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.,15_S,BALL_30
+31,Safari Ball,7,2,Balls,A special Poké Ball that is used only in the Great Marsh. It is recognizable by the camouflage pattern decorating it.,20_S,BALL_31
+32,Wing Ball,7,3,Balls,An improvement on the original Feather Ball design. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.,340_B,BALL_32
+33,Sport Ball,8,0,Balls,A special Poké Ball that is used during the Bug-Catching Contest.,15_S,BALL_33
+34,Timer Ball,8,1,Balls,A somewhat different Poké Ball that becomes progressively more effective at catching Pokémon the more turns that are taken in battle.,20_G,BALL_34
+35,Ultra Ball,8,2,Balls,An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.,300_S,BALL_35
+36,Jet Ball,8,3,Balls,The ultimate iteration of the Feather Ball. A ball that flies fast and true—ideal for catching nimble Pokémon or Pokémon that fly high in the air.,540_B,BALL_36
+37,Origin Ball,9,0,Balls,A singular and irreplicable Poké Ball that can be used to catch the frenzied Pokémon raging at the Temple of Sinnoh.,500_P,BALL_37
+38,Strange Ball,9,1,Balls,A Placeholder Poké Ball,10_S,BALL_38
+39,Rocket Ball,9,2,Balls,Team Rocket’s Poké Ball,10_P,BALL_39
+40,Magma Ball,9,3,Balls,Team Magma’s Poké Ball,10_P,BALL_40
+41,Aqua Ball,10,0,Balls,Team Aqua’s Poké Ball,10_P,BALL_41
+42,Galactic Ball,10,1,Balls,Team Galactic’s Poké Ball,10_P,BALL_42
+43,Plasma Ball,10,2,Balls,Team Plasma’s Poké Ball,10_P,BALL_43
+44,Flare Ball,10,3,Balls,Team Flare’s Poké Ball,10_P,BALL_44
+45,Skull Ball,11,0,Balls,Team Skull’s Poké Ball,10_P,BALL_45
+46,Aether Ball,11,1,Balls,Aether Foundation’s Poké Ball,10_P,BALL_46
+47,Yell Ball,11,2,Balls,Team Yell’s Poké Ball,10_P,BALL_47
+48,Rainbow Ball,11,3,Balls,A Rainbow colored Poké Ball,50_P,BALL_48
+49,Ability Capsule,0,0,Medicine,A capsule that heals 200 HP.,50_G,HEAL_200
+50,Antidote,0,1,Medicine,A spray-type medicine. It lifts the effect of poison from one Pokémon and heals 20 HP.,10_G,HEAL_20
+51,Awakening,0,2,Medicine,A spray-type medicine. It awakens a Pokémon from the clutches of sleep and heals 20 HP.,10_G,HEAL_20
+52,Berry Juice,0,3,Medicine,A 100% pure juice made of Berries. It restores the HP of one Pok��mon by just 20 points,100_G,HEAL_20
+53,Big Malasada,0,4,Medicine,The Alola region’s local specialty���fried bread. It can be used once to heal all the status conditions of a Pok��m,100_G,HEAL_20
+54,Burn Heal,0,5,Medicine,A spray-type medicine. It heals a single Pokémon that is suffering from a burn and heals 20 HP.,10_G,HEAL_20
+55,Calcium,1,0,Medicine,A nutritious drink for Pok��mon. It raises the base Sp. Atk (Special Attack) stat of a single Pok��mo,100_P,HEAL_20
+56,Carbos,1,1,Medicine,A nutritious drink for Pok��mon. It raises the base Speed stat of a single Pok��mo,100_P,HEAL_20
+57,Casteliacone,1,2,Medicine,"Castelia City’s specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pok��mon",100_P,HEAL_20
+58,Clever Wing,1,3,Medicine,An item for use on a Pokémon. It slightly increases the Sp. Def base points of a single Pokémon and heals 10 HP.,5_B,HEAL_10
+59,Elixir,1,4,Medicine,This medicine can be used to restore 10 PP to each of the moves that have been learned by a Pokémon and heals 10 HP.,5_B,HEAL_10
+60,Energy Powder,1,5,Medicine,A very bitter medicine powder. It restores the HP of one Pok��mon by 50 points,100_P,HEAL_50
+61,Energy Root,2,0,Medicine,A very bitter root. It restores the HP of one Pok��mon by 200 points,100_P,HEAL_200
+62,Ether,2,1,Medicine,This medicine can be used to restore 10 PP to a single selected move that has been learned by a Pokémon and heals 10 HP.,5_B,HEAL_10
+63,Fresh Water,2,2,Medicine,Water with a high mineral content. It restores the HP of one Pok��mon by 50 points,100_P,HEAL_50
+64,Full Heal,2,3,Medicine,A spray-type medicine that is broadly effective. It can be used to fully restore the HP of a single Pokémon and heal any status conditions it has,500_G,HEAL_99999
+65,Full Restore,2,4,Medicine,A spray-type medicine that can be used to fully restore the HP of a single Pokémon and heal any status conditions it has.,500_G,HEAL_99999
+66,Genius Wing,2,5,Medicine,An item for use on a Pokémon. It slightly increases the Sp. Atk base points of a single Pokémon and heals 10 HP.,5_B,HEAL_10
+67,Heal Powder,3,0,Medicine,A very bitter medicine powder. It heals all the status problems of a single Pok��mon,100_P,HEAL_99999
+68,Health Wing,3,1,Medicine,An item for use on a Pokémon. It slightly increases the HP base points of a single Pokémon and heals 10 HP.,5_B,HEAL_10
+69,Hp Up,3,2,Medicine,A nutritious drink for Pok��mon. It raises the base HP of a single Pok��mo,100_P,HEAL_10
+70,Hyper Potion,3,3,Medicine,A spray-type medicine for treating wounds. It can be used to restore 120 HP to a single Pokémon.,50_S,HEAL_120
+71,Ice Heal,3,4,Medicine,A spray-type medicine for treating freezing. It can be used to thaw out a single Pokémon that has been frozen solid and heal 20 HP.,10_G,HEAL_20
+72,Iron,3,5,Medicine,A nutritious drink for Pok��mon. It raises the base Defense stat of a single Pok��mo,100_P,HEAL_20
+73,Lava Cookie,4,0,Medicine,Lavaridge Town’s local specialty. It heals all the status problems of one Pok��mon,100_P,HEAL_20
+74,Lemonade,4,1,Medicine,A very sweet drink. It restores the HP of one Pok��mon by 80 points,100_P,HEAL_80
+75,Lumiose Galette,4,2,Medicine,A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pok��mon,100_P,HEAL_80
+76,Max Elixir,4,3,Medicine,This medicine can be used to fully restore the PP of all of the moves that have been learned by a Pokémon and heal 10 HP.,5_B,HEAL_10
+77,Max Ether,4,4,Medicine,This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon and heal 10 HP.,5_B,HEAL_10
+78,Max Potion,4,5,Medicine,A spray-type medicine for treating wounds. It can be used to completely restore the max HP of a single Pokémon.,200_S,HEAL_99999
+79,Max Revive,5,0,Medicine,A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon’s maximum HP.,1000_G,HEAL_99999
+80,Moomoo Milk,5,1,Medicine,Milk with a very high nutrition content. It restores the HP of one Pok��mon by 100 points,100_P,HEAL_100
+81,Muscle Wing,5,2,Medicine,An item for use on a Pokémon. It slightly increases the Attack base points of a single Pokémon and heals 10 HP.,5_B,HEAL_10
+82,Old Gateau,5,3,Medicine,Old Chateau’s hidden specialty. It heals all the status problems of a single Pok��mon,100_P,HEAL_10
+83,Paralyze Heal,5,4,Medicine,A spray-type medicine. It eliminates paralysis from a single Pokémon and heals 20 HP.,10_G,HEAL_20
+84,Potion,5,5,Medicine,A spray-type medicine for treating wounds. It can be used to restore 20 HP to a single Pokémon.,20_S,HEAL_20
+85,Pp Max,6,0,Medicine,It maximally raises the top PP of a selected move that has been learned by the target Pok��mon,100_P,HEAL_20
+86,Pp Up,6,1,Medicine,It slightly raises the maximum PP of a selected move that has been learned by the target Pok��mon,100_P,HEAL_20
+87,Protein,6,2,Medicine,A nutritious drink for Pok��mon. It raises the base Attack stat of a single Pok��mo,100_P,HEAL_20
+88,Rage Candy Bar,6,3,Medicine,"	A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pok��mon by 20 points",100_P,HEAL_20
+89,Rare Candy,6,4,Medicine,"A candy that is packed with energy. When consumed, it will instantly raise the level of a single Pokémon by one.",50_P,LEVEL_1
+90,Resist Wing,6,5,Medicine,An item for use on a Pokémon. It slightly increases the Defense base points of a single Pokémon and heals 10 HP.,5_B,HEAL_10
+91,Revival Herb,7,0,Medicine,"A very bitter medicinal herb. It revives a fainted Pok��mon, fully restoring its HP",100_P,HEAL_99999
+92,Revive,7,1,Medicine,A medicine that can be used to revive a single Pokémon that has fainted. It also restores half of the Pokémon’s max HP.,10_B,HEAL_999
+93,Sacred Ash,7,2,Medicine,"This rare ash can revive all fainted Pokémon in a party. In doing so, it also fully restores their maximum HP.",30_P,HEALALL_99999
+94,Shalour Sable,7,3,Medicine,Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pok��mon,100_P,HEAL_999
+95,Soda Pop,7,4,Medicine,A fizzy soda drink. It restores the HP of one Pok��mon by 60 points,100_P,HEAL_60
+96,Super Potion,7,5,Medicine,A spray-type medicine for treating wounds. It can be used to restore 60 HP to a single Pokémon.,100_S,HEAL_60
+97,Sweet Heart,8,0,Medicine,A piece of cloyingly sweet chocolate. It can be used to restore 20 HP to a single Pokémon.,20_S,HEAL_20
+98,Swift Wing,8,1,Medicine,An item for use on a Pokémon. It slightly increases the Speed base points of a single Pokémon and heals 10 HP.,5_B,HEAL_10
+99,Zinc,8,2,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the Sp. Def base points of a single Pokémon.",100_P,HEAL_10
+100,Dire Hit,0,0,Battle Item,An item that raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.,1000_P,NONE_0
+101,Guard Spec,0,1,Battle Item,An item that prevents stat reduction among the Trainer’s party Pokémon for five turns after use.,1000_P,NONE_0
+102,X Accuracy,0,2,Battle Item,An item that sharply boosts the accuracy of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.,1000_P,NONE_0
+103,X Attack,0,3,Battle Item,An item that sharply boosts the Attack stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.,1000_P,NONE_0
+104,X Defense,1,0,Battle Item,An item that sharply boosts the Defense stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.,1000_P,NONE_0
+105,X Sp Atk,1,1,Battle Item,An item that sharply boosts the Sp. Atk stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.,1000_P,NONE_0
+106,X Sp Def,1,2,Battle Item,An item that sharply boosts the Sp. Def stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.,1000_P,NONE_0
+107,X Speed,1,3,Battle Item,An item that sharply boosts the Speed stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.,1000_P,NONE_0
+108,Bottle Cap,0,0,Others,A beautiful bottle cap that gives off a silver gleam. Some people are happy to receive one.,10_S,SILVER_100
+109,Discount Coupon,0,1,Others,This special coupon allows you to buy items at a discount when you are shopping at a boutique but it is currently not accepted.,100_P,NONE_0
+110,Dynite Ore,0,2,Others,Mysterious ore that can be obtained in the Max Lair. Something good will happen if you give it to a collector in the Crown Tundra.,100_P,NONE_0
+111,Escape Rope,1,0,Others,A long and durable rope. Use it to escape instantly from locations like caves or dungeons.,100_P,NONE_0
+112,Fluffy Tail,1,1,Others,A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.,100_P,NONE_0
+113,Gold Bottle Cap,1,2,Others,A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.,10_G,GOLD_100
+114,Heart Scale,2,0,Others,"A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one.",100_P,NONE_0
+115,Honey,2,1,Others,A sweet honey collected by Pokémon. It has a lush aroma and can be sold at a low price to shops.,100_P,NONE_0
+116,Max Repel,2,2,Others,An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Super Repel.,100_P,NONE_0
+117,Pink Nectar,3,0,Others,The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.,150_S,FORM_741_741P
+118,Poke Doll,3,1,Others,A doll that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.,100_P,NONE_0
+119,Poke Toy,3,2,Others,A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.,100_P,NONE_0
+120,Purple Nectar,4,0,Others,A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.,150_S,FORM_741_741G
+121,Red Nectar,4,1,Others,A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon.,150_S,FORM_741_741
+122,Repel,4,2,Others,An item that prevents any low-level wild Pokémon from jumping out at you for a while.,100_P,NONE_0
+123,Soothe Bell,5,0,Others,"An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly.",50_B,NONE_0
+124,Strange Souvenir,5,1,Others,An ornament depicting a mysterious Pokémon that has been venerated as a guardian deity for an extremely long time in the Alola region.,100_P,NONE_0
+125,Yellow Nectar,5,2,Others,A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.,150_S,FORM_741_741E
+126,Black Flute,0,0,Flutes,A flute made from black glass. It makes a single black colored Pokémon more friendly.,250_S,NONE_0
+127,Blue Flute,0,1,Flutes,A flute made from blue glass. It makes a single blue colored Pokémon more friendly.,250_S,NONE_0
+128,Red Flute,0,2,Flutes,A flute made from red glass. It makes a single red colored Pokémon more friendly.,250_S,NONE_0
+129,White Flute,0,3,Flutes,A flute made from white glass. It makes a single white colored Pokémon more friendly.,250_S,NONE_0
+130,Yellow Flute,0,4,Flutes,A flute made from yellow glass. It makes a single yellow colored Pokémon more friendly.,250_S,NONE_0
+131,Balm Mushroom,0,0,Valuables,A rare mushroom that gives off a nice fragrance. It can be sold at a high price to shops.,100_P,NONE_0
+132,Big Mushroom,0,1,Valuables,A very large and rare mushroom. It’s popular with a certain class of collectors.,100_P,NONE_0
+133,Big Nugget,0,2,Valuables,A big nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.,100_P,NONE_0
+134,Big Pearl,0,3,Valuables,A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.,100_P,NONE_0
+135,Comet Shard,1,0,Valuables,A shard that fell to the ground when a comet approached.,10_B,BLUE_100
+136,Nugget,1,1,Valuables,A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.,100_P,NONE_0
+137,Pearl,1,2,Valuables,A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.,100_P,NONE_0
+138,Pearl String,1,3,Valuables,Very large pearls that sparkle in a pretty silver color. They can be sold at a high price to shops.,100_P,NONE_0
+139,Pretty Wing,2,0,Valuables,"Though this feather is beautiful, it’s just a regular feather and has no effect.",100_P,NONE_0
+140,Rare Bone,2,1,Valuables,A rare bone that is extremely valuable for the study of Pokémon archeology. It can be sold for a high price to shops.,100_P,NONE_0
+141,Relic Band,2,2,Valuables,A heavy bracelet made by an ancient civilization about three thousand years ago.,100_P,NONE_0
+142,Relic Copper,2,3,Valuables,A copper coin used by an ancient civilization about three thousand years ago.,100_P,NONE_0
+143,Relic Crown,3,0,Valuables,A heavy crown made by an ancient civilization about three thousand years ago.,100_P,NONE_0
+144,Relic Gold,3,1,Valuables,A gold coin used by an ancient civilization about three thousand years ago.,100_P,NONE_0
+145,Relic Silver,3,2,Valuables,A silver coin used by an ancient civilization about three thousand years ago.,100_P,NONE_0
+146,Relic Statue,3,3,Valuables,A stone figurine made by an ancient civilization about three thousand years ago.,100_P,NONE_0
+147,Relic Vase,4,0,Valuables,A fragile vase made by an ancient civilization about three thousand years ago.,100_P,NONE_0
+148,Shoal Salt,4,1,Valuables,Pure salt that can be discovered only deep inside the Shoal Cave.,100_P,NONE_0
+149,Shoal Shell,4,2,Valuables,A pretty seashell that was found deep inside the Shoal Cave. It is striped in blue and white.,100_P,NONE_0
+150,Star Piece,4,3,Valuables,A small shard of a beautiful gem that gives off a distinctly red sparkle.,10_P,PINK_100
+151,Stardust,5,0,Valuables,"Lovely red sand that flows between the fingers with a loose, silky feel. It can be sold at a low price to shops.",100_P,NONE_0
+152,Tiny Mushroom,5,1,Valuables,A very small and rare mushroom. It’s popular with a certain class of collectors and sought out by them.,100_P,NONE_0
+153,Blue Shard,0,0,Shards,A small blue shard. It appears to be a fragment of some sort of implement made long ago.,100_P,NONE_0
+154,Green Shard,0,1,Shards,A small green shard. It appears to be a fragment of some sort of implement made long ago.,100_P,NONE_0
+155,Red Shard,1,0,Shards,A small red shard. It appears to be a fragment of some sort of implement made long ago.,100_P,NONE_0
+156,Yellow Shard,1,1,Shards,A small yellow shard. It appears to be a fragment of some sort of implement made long ago.,100_P,NONE_0
+157,Berry Sweet,0,0,Evolution items,"A berry-shaped sweet. When a Milcery holds this, it spins around happily.",100_P,NONE_0
+158,Chipped Pot,0,1,Evolution items,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious.",50_G,EVOLVE_854_855
+159,Clover Sweet,0,2,Evolution items,"A clover-shaped sweet. When a Milcery holds this, it spins around happily.",50_G,NONE_0
+160,Cracked Pot,0,3,Evolution items,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.",50_G,EVOLVE_854_855
+161,Dawn Stone,0,4,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.,50_G,EVOLVEMALE_281_475;EVOLVEFEMALE_361_478
+162,Deep Sea Scale,1,0,Evolution items,An item to be held by Clamperl. This scale shines with a faint pink and raises the holder’s Sp. Def stat.,50_G,EVOLVE_366_368
+163,Deep Sea Tooth,1,1,Evolution items,An item to be held by Clamperl. This fang gleams a sharp silver and raises the holder’s Sp. Atk stat.,50_G,EVOLVE_366_367
+164,Dragon Scale,1,2,Evolution items,A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.,50_G,EVOLVE_117_230
+165,Dubious Disc,1,3,Evolution items,A transparent device overflowing with dubious data. It’s loved by a certain Pokémon.,50_G,EVOLVE_233_474
+166,Dusk Stone,1,4,Evolution items,A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.,50_G,EVOLVE_198_430;EVOLVE_200_429;EVOLVE_608_609;EVOLVE_680_681
+167,Electirizer,2,0,Evolution items,A box packed with a tremendous amount of electric energy. It’s loved by a certain Pokémon.,50_G,NONE_0
+168,Fire Stone,2,1,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.,50_G,EVOLVE_37_38;EVOLVE_58_59;EVOLVE_58H_59H;EVOLVE_133_136;EVOLVE_513_514
+169,Flower Sweet,2,2,Evolution items,"A flower-shaped sweet. When a Milcery holds this, it spins around happily.",50_G,NONE_0
+170,Galarica Cuff,2,3,Evolution items,A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.,50_G,EVOLVE_70G_80G
+171,Galarica Wreath,2,4,Evolution items,A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.,50_G,EVOLVE_70G_199G
+172,Ice Stone,3,0,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It has a snowflake pattern in it.,50_G,EVOLVE_27A_28A;EVOLVE_37A_38A;EVOLVE_554G_555G;EVOLVE_133_471
+173,Kings Rock,3,1,Evolution items,"An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch.",50_G,NONE_0
+174,Leaf Stone,3,2,Evolution items,A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.,50_G,EVOLVE_44_45;EVOLVE_70_71;EVOLVE_100H_101H;EVOLVERANDOM_102_103_103A;EVOLVE_133_470;EVOLVE_274_275;EVOLVE_511_512
+175,Love Sweet,3,3,Evolution items,"A heart-shaped sweet. When a Milcery holds this, it spins around happily.",50_G,NONE_0
+176,Magmarizer,3,4,Evolution items,A box packed with a tremendous amount of magma energy. It’s loved by a certain Pokémon.,50_G,NONE_0
+177,Metal Coat,4,0,Evolution items,An item to be held by a Pokémon. It’s a special metallic film that can boost the power of Steel-type moves,50_G,NONE_0
+178,Moon Stone,4,1,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.,50_G,EVOLVE_30_31;EVOLVE_33_34;EVOLVE_35_36;EVOLVE_39_40;EVOLVE_300_301;EVOLVE_517_518
+179,Oval Stone,4,2,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It’s as round as a Pokémon Egg.,50_G,NONE_0
+180,Prism Scale,4,3,Evolution items,A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors.,50_G,NONE_0
+181,Protector,4,4,Evolution items,A protective item of some sort. It is extremely stiff and heavy. It’s loved by a certain Pokémon.,50_G,NONE_0
+182,Razor Claw,5,0,Evolution items,An item to be held by a Pokémon. This sharply hooked claw increases the holder’s critical-hit ratio.,50_G,NONE_0
+183,Razor Fang,5,1,Evolution items,"An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch.",50_G,NONE_0
+184,Reaper Cloth,5,2,Evolution items,A cloth imbued with horrifyingly strong spiritual energy. It’s loved by a certain Pokémon.,50_G,NONE_0
+185,Ribbon Sweet,5,3,Evolution items,"	A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.",50_G,NONE_0
+186,Sachet,5,4,Evolution items,A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it’s loved by a certain Pokémon.,50_G,NONE_0
+187,Shiny Stone,6,0,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light.,50_G,EVOLVE_176_468;EVOLVE_315_407;EVOLVE_572_573;EVOLVE_670_671;EVOLVE_670Y_671Y;EVOLVE_670O_671O;EVOLVE_670B_671B;EVOLVE_670W_671W
+188,Star Sweet,6,1,Evolution items,"A star-shaped sweet. When a Milcery holds this, it spins around happily.",50_G,NONE_0
+189,Strawberry Sweet,6,2,Evolution items,"A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",50_G,NONE_0
+190,Sun Stone,6,3,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.,50_G,EVOLVE_44_182;EVOLVE_191_192;EVOLVE_546_547;EVOLVERANDOM_548_549_549H;EVOLVE_694_695
+191,Sweet Apple,6,4,Evolution items,A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.,50_G,EVOLVE_840_842
+192,Tart Apple,7,0,Evolution items,A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally tart.,50_G,EVOLVE_840_841
+193,Thunder Stone,7,1,Evolution items,A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.,50_G,EVOLVERANDOM_25_26_26A;EVOLVE_82_462;EVOLVE_133_135;EVOLVE_299_476;EVOLVE_603_604;EVOLVE_737_738
+194,Up-Grade,7,2,Evolution items,A transparent device somehow filled with all sorts of data. It’s loved by a certain Pokémon.,50_G,NONE_0
+195,Water Stone,7,3,Evolution items,A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.,50_G,EVOLVE_61_62;EVOLVE_90_91;EVOLVE_120_121;EVOLVE_133_134;EVOLVE_271_272;EVOLVE_515_516
+196,Whipped Dream,7,4,Evolution items,"A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It’s loved by a certain Pokémon.",50_G,NONE_0
+197,Amaze Mulch,0,0,Mulch,"Mulch to be used in a Berry field. An amazing Mulch with the effects of Rich, Surprise, and Boost Mulch.",100_S,NONE_0
+198,Boost Mulch,0,1,Mulch,Mulch to be used in a Berry field. It increases the Berry harvest that can be grown by diligent watering.,100_S,NONE_0
+199,Damp Mulch,1,0,Mulch,"	A fertilizer to be spread on soft soil. It slows the growth of Berries and causes the soil to dry slower.",100_S,NONE_0
+200,Gooey Mulch,1,1,Mulch,"	A fertilizer to be spread on soft soil. It ups the number of times new plants grow where mature plants withered.",100_S,NONE_0
+201,Growth Mulch,2,0,Mulch,"A fertilizer to be spread on soft soil. It speeds up the growth of Berries. However, it also dries the soil faster.",100_S,NONE_0
+202,Rich Mulch,2,1,Mulch,Mulch to be used in a Berry field. It increases the Berry harvest without the need for particularly diligent care.,100_S,NONE_0
+203,Stable Mulch,3,0,Mulch,A fertilizer to be spread on soft soil. It extends the time ripened Berries remain on their plants before falling.,100_S,NONE_0
+204,Surprise Mulch,3,1,Mulch,"Mulch to be used in a Berry field. It causes strange, sudden mutations based on the combination of Berries.",100_S,NONE_0
+205,Armor Fossil,0,0,Fossil,A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.,500_S,EGG_410
+206,Bird Fossil,0,1,Fossil,The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.,500_S,EGG_881
+207,Claw Fossil,0,2,Fossil,A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.,500_S,EGG_347
+208,Cover Fossil,1,0,Fossil,A fossil from a prehistoric Pokémon that once lived in the sea. It appears as though it could be part of its back.,500_S,EGG_564
+209,Dino Fossil,1,1,Fossil,The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.,500_S,EGG_880
+210,Dome Fossil,1,2,Fossil,A fossil from a prehistoric Pokémon that once lived in the sea. It could be a shell or carapace.,500_S,EGG_140
+211,Drake Fossil,2,0,Fossil,The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.,500_S,EGG_882
+212,Fish Fossil,2,1,Fossil,The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.,500_S,EGG_883
+213,Helix Fossil,2,2,Fossil,A fossil from a prehistoric Pokémon that once lived in the sea. It might be a piece of a seashell.,500_S,EGG_138
+214,Jaw Fossil,3,0,Fossil,A fossil from a prehistoric Pokémon that once lived on the land. It looks as if it could be a piece of a large jaw.,500_S,EGG_696
+215,Old Amber,3,1,Fossil,"A piece of amber that still contains the genetic material of an ancient Pokémon. It’s clear with a tawny, reddish tint.",500_S,EGG_142
+216,Plume Fossil,3,2,Fossil,A fossil from a prehistoric Pokémon that once lived in the sky. It looks as if it could come from part of its wing.,500_S,EGG_566
+217,Root Fossil,4,0,Fossil,A fossil from a prehistoric Pokémon that once lived in the sea. It looks as if it could be part of a plant’s root.,500_S,EGG_345
+218,Sail Fossil,4,1,Fossil,A fossil from a prehistoric Pokémon that once lived on land. It looks like the impression from a skin sail.,500_S,EGG_698
+219,Skull Fossil,4,2,Fossil,A fossil from a prehistoric Pokémon that once lived on the land. It appears as though it’s part of a head.,500_S,EGG_408
+220,Absorb Bulb,0,0,Held Item,An item to be held by a Pokémon. It boosts Sp. Atk if the holder is hit with a Water-type attack. It can only be used once.,100_P,NONE_0
+221,Adamant Orb,0,1,Held Item,A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves when it is held.,100_P,NONE_0
+222,Adrenaline Orb,0,2,Held Item,"If held by a Pokémon, it boosts Speed when intimidated.",100_P,NONE_0
+223,Air Balloon,0,3,Held Item,"An item to be held by a Pokémon. The holder will float in the air until hit. Once the holder is hit, this item will burst.",100_P,NONE_0
+224,Amulet Coin,0,4,Held Item,An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle.,100_P,NONE_0
+225,Assault Vest,0,5,Held Item,An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.,100_P,NONE_0
+226,Big Root,0,6,Held Item,An item to be held by a Pokémon. It boosts the amount of HP the holder restores from HP-stealing moves.,100_P,NONE_0
+227,Binding Band,0,7,Held Item,An item to be held by a Pokémon. It’s a band that increases the power of binding moves used by the holder.,100_P,NONE_0
+228,Black Belt,0,8,Held Item,An item to be held by a Pokémon. This belt helps the wearer to focus and boosts the power of Fighting-type moves.,100_P,NONE_0
+229,Black Glasses,1,0,Held Item,An item to be held by a Pokémon. It’s a pair of shady-looking glasses that boost the power of Dark-type moves.,100_P,NONE_0
+230,Black Sludge,1,1,Held Item,A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.,100_P,NONE_0
+231,Blue Orb,1,2,Held Item,"If used on a Kyogre, allows it to undergo Primal Reversion and become Primal Kyogre",100_P,FORM_382_382P
+232,Bright Powder,1,3,Held Item,An item to be held by a Pokémon. It casts a tricky glare that lowers the opposing Pokémon’s accuracy.,100_P,NONE_0
+233,Burn Drive,1,4,Held Item,This item changes a Genesect to its Burn Drive form.,100_P,FORM_649_649B
+234,Cell Battery,1,5,Held Item,"A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.",100_P,NONE_0
+235,Charcoal,1,6,Held Item,An item to be held by a Pokémon. It’s a combustible fuel that boosts the power of Fire-type moves.,100_P,NONE_0
+236,Chill Drive,1,7,Held Item,This item changes a Genesect to its Chill Drive form.,100_P,FORM_649_649C
+237,Choice Band,1,8,Held Item,An item to be held by a Pokémon. This curious headband boosts Attack but only allows the use of one move.,100_P,NONE_0
+238,Choice Scarf,2,0,Held Item,An item to be held by a Pokémon. This curious scarf boosts Speed but only allows the use of one move.,100_P,NONE_0
+239,Choice Specs,2,1,Held Item,An item to be held by a Pokémon. These curious glasses boost Sp. Atk but only allow the use of one move.,100_P,NONE_0
+240,Cleanse Tag,2,2,Held Item,An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party.,100_P,NONE_0
+241,Damp Rock,2,3,Held Item,An item to be held by a Pokémon. It extends the duration of the move Rain Dance when used by the holder.,100_P,NONE_0
+242,Destiny Knot,2,4,Held Item,"An item to be held by a Pokémon. If the holder becomes infatuated, the opposing Pokémon will be, too.",100_P,NONE_0
+243,Douse Drive,2,5,Held Item,This item changes a Genesect to its Douse Drive form.,100_P,FORM_649_649D
+244,Dragon Fang,2,6,Held Item,An item to be held by a Pokémon. This hard and sharp fang boosts the power of Dragon-type moves.,100_P,NONE_0
+245,Eject Button,2,7,Held Item,"An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle.",100_P,NONE_0
+246,Electric Seed,2,8,Held Item,An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.,100_P,NONE_0
+247,Everstone,3,0,Held Item,An item to be held by a Pokémon. A Pokémon holding this peculiar stone is prevented from evolving.,100_P,NONE_0
+248,Eviolite,3,1,Held Item,"A mysterious evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def.",100_P,NONE_0
+249,Expert Belt,3,2,Held Item,An item to be held by a Pokémon. It’s a well-worn belt that slightly boosts the power of supereffective moves.,100_P,NONE_0
+250,Flame Orb,3,3,Held Item,An item to be held by a Pokémon. It’s a bizarre orb that will afflict the holder with a burn during battle.,100_P,NONE_0
+251,Float Stone,3,4,Held Item,"	An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held.",100_P,NONE_0
+252,Focus Band,3,5,Held Item,"	An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.",100_P,NONE_0
+253,Focus Sash,3,6,Held Item,"An item to be held by a Pokémon. If the holder has full HP, it will endure a potential KO attack with 1 HP. The item then disappears.",100_P,NONE_0
+254,Grassy Seed,3,7,Held Item,An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.,100_P,NONE_0
+255,Grip Claw,3,8,Held Item,"An item to be held by a Pokémon. It extends the duration of multi-turn attacks, such as Bind and Wrap.",100_P,NONE_0
+256,Griseous Orb,4,0,Held Item,A glowing orb to be held by Giratina. It changes its form when used.,100_P,FORM_487_487O
+257,Hard Stone,4,1,Held Item,An item to be held by a Pokémon. It’s a durable stone that boosts the power of Rock-type moves.,100_P,NONE_0
+258,Heat Rock,4,2,Held Item,An item to be held by a Pokémon. It extends the duration of the move Sunny Day when used by the holder.,100_P,NONE_0
+259,Icy Rock,4,3,Held Item,An item to be held by a Pokémon. It extends the duration of the move Hail when used by the holder.,100_P,NONE_0
+260,Iron Ball,4,4,Held Item,"	An item to be held by a Pokémon. It lowers Speed and allows Ground-type moves to hit Flying types and holders that are levitating.",100_P,NONE_0
+261,Lagging Tail,4,6,Held Item,An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.,100_P,NONE_0
+262,Leftovers,4,7,Held Item,An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout every battle.,100_P,NONE_0
+263,Life Orb,4,8,Held Item,An item to be held by a Pokémon. It boosts the power of moves but at the cost of some HP on each hit.,100_P,NONE_0
+264,Light Ball,5,0,Held Item,An item to be held by Pikachu. It’s a puzzling orb that boosts its Attack and Sp. Atk stats.,100_P,NONE_0
+265,Light Clay,5,1,Held Item,An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.,100_P,NONE_0
+266,Lucky Egg,5,2,Held Item,An item to be held by a Pokémon. It’s an egg filled with happiness that earns the holder extra Exp. Points in battle.,100_P,NONE_0
+267,Lucky Punch,5,3,Held Item,An item to be held by Chansey. This pair of lucky boxing gloves will boost Chansey’s critical-hit ratio.,100_P,NONE_0
+268,Lustrous Orb,5,4,Held Item,A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves when it is held.,100_P,NONE_0
+269,Magnet,5,5,Held Item,An item to be held by a Pokémon. It’s a powerful magnet that boosts the power of Electric-type moves.,100_P,NONE_0
+270,Mental Herb,5,6,Held Item,An item to be held by a Pokémon. The holder shakes off move-binding effects to move freely. It can be used only once.,100_P,NONE_0
+271,Metal Powder,5,8,Held Item,"	An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.",100_P,NONE_0
+272,Metronome,6,0,Held Item,An item to be held by a Pokémon. It boosts moves used consecutively but only until a different move is used.,100_P,NONE_0
+273,Miracle Seed,6,1,Held Item,An item to be held by a Pokémon. It’s a seed imbued with life-force that boosts the power of Grass-type moves.,100_P,NONE_0
+274,Misty Seed,6,2,Held Item,An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.,100_P,NONE_0
+275,Muscle Band,6,3,Held Item,"An item to be held by a Pokémon. This headband exudes strength, slightly boosting the power of physical moves.",100_P,NONE_0
+276,Mystic Water,6,4,Held Item,An item to be held by a Pokémon. This teardrop-shaped gem boosts the power of Water-type moves.,100_P,NONE_0
+277,Never Melt Ice,6,5,Held Item,An item to be held by a Pokémon. It’s a heat- repelling piece of ice that boosts the power of Ice-type moves.,100_P,NONE_0
+278,Poison Barb,6,6,Held Item,"An item to be held by a Pokémon. This small, poisonous barb boosts the power of Poison-type moves.",100_P,NONE_0
+279,Power Herb,6,7,Held Item,A single-use item to be held by a Pokémon. It allows the holder to immediately use a move that normally requires a turn to charge.,100_P,NONE_0
+280,Protective Pads,6,8,Held Item,An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target.,100_P,NONE_0
+281,Psychic Seed,7,0,Held Item,An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.,100_P,NONE_0
+282,Quick Claw,7,1,Held Item,"An item to be held by a Pokémon. This light, sharp claw lets the bearer move first occasionally.",100_P,NONE_0
+283,Quick Powder,7,2,Held Item,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.",100_P,NONE_0
+284,Red Card,7,3,Held Item,"An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle.",100_P,NONE_0
+285,Red Orb,7,4,Held Item,"If used on a Groudon, allows it to undergo Primal Reversion and become Primal Groudon.",100_P,FORM_383_383P
+286,Ring Target,7,5,Held Item,An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it.,100_P,NONE_0
+287,Rocky Helmet,7,6,Held Item,"An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact.",100_P,NONE_0
+288,Rusted Shield,7,7,Held Item,It is said that a hero used this shield to halt a terrible disaster in ancient times. But it’s grown rusty and worn.,100_P,FORM_889_889C
+289,Rusted Sword,7,8,Held Item,It is said that a hero used this sword to halt a terrible disaster in ancient times. But it’s grown rusty and worn.,100_P,FORM_888_888C
+290,Safety Goggles,8,0,Held Item,An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder.,100_P,NONE_0
+291,Scope Lens,8,1,Held Item,An item to be held by a Pokémon. It’s a lens for scoping out weak points. It boosts the holder’s critical-hit ratio.,100_P,NONE_0
+292,Sharp Beak,8,2,Held Item,"An item to be held by a Pokémon. It’s a long, sharp beak that boosts the power of Flying-type moves.",100_P,NONE_0
+293,Shed Shell,8,3,Held Item,An item to be held by a Pokémon. This discarded carapace enables the holder to switch out of battle without fail.,100_P,NONE_0
+294,Shell Bell,8,4,Held Item,An item to be held by a Pokémon. The holder restores a little HP every time it inflicts damage on others.,100_P,NONE_0
+295,Shock Drive,8,5,Held Item,An item to be held by a Pokémon. The holder restores a little HP every time it inflicts damage on others.,100_P,FORM_649_649S
+296,Silk Scarf,8,6,Held Item,An item to be held by a Pokémon. It’s a sumptuous scarf that boosts the power of Normal-type moves.,100_P,NONE_0
+297,Silver Powder,8,7,Held Item,An item to be held by a Pokémon. It’s a shiny silver powder that will boost the power of Bug-type moves.,100_P,NONE_0
+298,Smoke Ball,8,8,Held Item,An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.,100_P,NONE_0
+299,Smooth Rock,9,0,Held Item,An item to be held by a Pokémon. It extends the duration of the move Sandstorm when used by the holder.,100_P,NONE_0
+300,Snowball,9,1,Held Item,An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Ice-type attack. It can only be used once.,100_P,NONE_0
+301,Soft Sand,9,2,Held Item,"An item to be held by a Pokémon. It’s a loose, silky sand that boosts the power of Ground-type moves.",100_P,NONE_0
+302,Soul Dew,9,3,Held Item,A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.,100_P,NONE_0
+303,Spell Tag,9,4,Held Item,"An item to be held by a Pokémon. It’s a sinister, eerie tag that boosts the power of Ghost-type moves.",100_P,NONE_0
+304,Stick,9,5,Held Item,An item to be held by Farfetch’d. This very long and stiff stalk of leek boosts its critical-hit ratio.,100_P,NONE_0
+305,Sticky Barb,9,6,Held Item,An item to be held by a Pokémon. It damages the holder every turn and may latch on to Pokémon that touch the holder.,100_P,NONE_0
+306,Terrain Extender,9,7,Held Item,An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder’s move or Ability.,100_P,NONE_0
+307,Thick Club,9,8,Held Item,An item to be held by Cubone or Marowak. It’s a hard bone of some sort that boosts the Attack stat.,100_P,NONE_0
+308,Toxic Orb,10,0,Held Item,An item to be held by a Pokémon. It’s a bizarre orb that will badly poison the holder during battle.,100_P,NONE_0
+309,Twisted Spoon,10,1,Held Item,An item to be held by a Pokémon. This spoon is imbued with telekinetic power and boosts Psychic-type moves.,100_P,NONE_0
+310,Weakness Policy,10,2,Held Item,An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it’s weak to.,100_P,NONE_0
+311,White Herb,10,3,Held Item,An item to be held by a Pokémon. It will restore any lowered stat in battle. It can be used only once.,100_P,NONE_0
+312,Wide Lens,10,4,Held Item,An item to be held by a Pokémon. It’s a magnifying lens that slightly boosts the accuracy of moves.,100_P,NONE_0
+313,Wise Glasses,10,5,Held Item,"	An item to be held by a Pokémon. This thick pair of glasses slightly boosts the power of special moves.",100_P,NONE_0
+314,Zoom Lens,10,6,Held Item,"An item to be held by a Pokémon. If the holder moves after its target moves, its accuracy will be boosted.",100_P,NONE_0
+315,Macho Brace,0,0,EV Item,"An item to be held by a Pokémon. This stiff, heavy brace helps Pokémon grow strong but cuts Speed in battle.",100_P,NONE_0
+316,Power Anklet,0,1,EV Item,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Speed stat to grow more after battling.,100_P,NONE_0
+317,Power Band,0,2,EV Item,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Sp. Def stat to grow more after battling.,100_P,NONE_0
+318,Power Belt,0,3,EV Item,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Defense stat to grow more after battling.,100_P,NONE_0
+319,Power Bracer,1,0,EV Item,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Attack stat to grow more after battling.,100_P,NONE_0
+320,Power Lens,1,1,EV Item,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Sp. Atk stat to grow more after battling.,100_P,NONE_0
+321,Power Weight,1,2,EV Item,An item to be held by a Pokémon. It reduces Speed but allows the holder’s max HP to grow more after battling.,100_P,NONE_0
+322,Full Incense,0,0,Incense,This exotic-smelling incense contains a mysterious egg.,500_S,EGG_446
+323,Lax Incense,0,1,Incense,This beguiling-smelling incense contains a mysterious egg.,500_S,EGG_360
+324,Luck Incense,0,2,Incense,This aromatic incense contains a mysterious egg.,500_S,EGG_440
+325,Odd Incense,1,0,Incense,This exotic-smelling incense contains a mysterious egg.,500_S,EGG_439
+326,Pure Incense,1,1,Incense,This pure-smelling incense contains a mysterious egg.,500_S,EGG_433
+327,Rock Incense,1,2,Incense,This exotic-smelling incense contains a mysterious egg.,500_S,EGG_438
+328,Rose Incense,2,0,Incense,This fragrant incense contains a mysterious egg.,500_S,EGG_406
+329,Sea Incense,2,1,Incense,This curiously aromatic incense contains a mysterious egg.,500_S,EGG_298
+330,Wave Incense,2,2,Incense,This curiously aromatic incense contains a mysterious egg.,500_S,EGG_458
+331,Blue Scarf,0,0,Scarves,An item to be held by a Pokémon. It makes the Pokémon holding it enjoy Dry foods.,50_G,NONE_0
+332,Green Scarf,0,1,Scarves,An item to be held by a Pokémon. It makes the Pokémon holding it enjoy Bitter foods.,50_G,NONE_0
+333,Pink Scarf,0,2,Scarves,An item to be held by a Pokémon. It makes the Pokémon holding it enjoy Sweet foods.,50_G,NONE_0
+334,Red Scarf,0,3,Scarves,An item to be held by a Pokémon. It makes the Pokémon holding it enjoy Spicy foods.,50_G,NONE_0
+335,Yellow Scarf,0,4,Scarves,An item to be held by a Pokémon. It makes the Pokémon holding it enjoy Sour foods.,50_G,NONE_0
+336,Draco Plate,0,0,Plates,"A stone tablet imbued with the essence of dragons. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Dragon type.",50_B,FORM_493_493Dra
+337,Dread Plate,0,1,Plates,"A stone tablet imbued with the essence of darkness. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Dark type.",50_B,FORM_493_493Dar
+338,Earth Plate,0,2,Plates,"A stone tablet imbued with the essence of the earth. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Ground type.",50_B,FORM_493_493Gro
+339,Fist Plate,1,0,Plates,"A stone tablet imbued with the essence of the fighting spirit. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Fighting type.",50_B,FORM_493_493Fig
+340,Flame Plate,1,1,Plates,"	A stone tablet imbued with the essence of fire. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Fire type.",50_B,FORM_493_493Fir
+341,Icicle Plate,1,2,Plates,"A stone tablet imbued with the essence of ice. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Ice type.",50_B,FORM_493_493Ice
+342,Insect Plate,2,0,Plates,"A stone tablet imbued with the essence of bugs. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Bug type.",50_B,FORM_493_493Bug
+343,Iron Plate,2,1,Plates,"A stone tablet imbued with the essence of steel. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Steel type.",50_B,FORM_493_493Ste
+344,Meadow Plate,2,2,Plates,"A stone tablet imbued with the essence of plants. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Grass type.",50_B,FORM_493_493Gra
+345,Mind Plate,3,0,Plates,"	A stone tablet imbued with the essence of psychic energy. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Psychic type.",50_B,FORM_493_493Psy
+346,Pixie Plate,3,1,Plates,"A stone tablet imbued with the essence of fairies. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Fairy type.",50_B,FORM_493_493Fai
+347,Sky Plate,3,2,Plates,"A stone tablet imbued with the essence of flight. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Flying type.",50_B,FORM_493_493Fly
+348,Splash Plate,4,0,Plates,"A stone tablet imbued with the essence of water. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Water type.",50_B,FORM_493_493Wat
+349,Spooky Plate,4,1,Plates,"	A stone tablet imbued with the essence of ghosts. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Ghost type.",50_B,FORM_493_493Gho
+350,Stone Plate,4,2,Plates,"A stone tablet imbued with the essence of rock. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Rock type.",50_B,FORM_493_493Roc
+351,Toxic Plate,5,0,Plates,"	A stone tablet imbued with the essence of poison. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Poison type.",50_B,FORM_493_493Poi
+352,Zap Plate,5,1,Plates,"A stone tablet imbued with the essence of electricity. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Electric type.",50_B,FORM_493_493Ele
+353,Bug Gem,0,0,Gems,"A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move one time.",70_G,NONE_0
+354,Dark Gem,0,1,Gems,"A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move one time.",70_G,NONE_0
+355,Dragon Gem,0,2,Gems,"A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time.",70_G,NONE_0
+356,Electric Gem,1,0,Gems,"A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move one time.",70_G,NONE_0
+357,Fairy Gem,1,1,Gems,"A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move one time.",70_G,NONE_0
+358,Fighting Gem,1,2,Gems,"A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move one time.",70_G,NONE_0
+359,Fire Gem,2,0,Gems,"A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time.",70_G,NONE_0
+360,Flying Gem,2,1,Gems,"A gem with an essence of air. When held, it strengthens the power of a Flying-type move one time.",70_G,NONE_0
+361,Ghost Gem,2,2,Gems,"A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move one time.",70_G,NONE_0
+362,Grass Gem,3,0,Gems,"A gem with an essence of nature. When held, it strengthens the power of a Grass-type move one time.",70_G,NONE_0
+363,Ground Gem,3,1,Gems,"A gem with an essence of land. When held, it strengthens the power of a Ground-type move one time.",70_G,NONE_0
+364,Ice Gem,3,2,Gems,"A gem with an essence of ice. When held, it strengthens the power of an Ice-type move one time.",70_G,NONE_0
+365,Normal Gem,4,0,Gems,"A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time.",70_G,NONE_0
+366,Poison Gem,4,1,Gems,"A gem with an essence of poison. When held, it strengthens the power of a Poison-type move one time.",70_G,NONE_0
+367,Psychic Gem,4,2,Gems,"A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move one time.",70_G,NONE_0
+368,Rock Gem,5,0,Gems,"A gem with an essence of rock. When held, it strengthens the power of a Rock-type move one time.",70_G,NONE_0
+369,Steel Gem,5,1,Gems,"A gem with an essence of steel. When held, it strengthens the power of a Steel-type move one time.",70_G,NONE_0
+370,Water Gem,5,2,Gems,"A gem with an essence of water. When held, it strengthens the power of a Water-type move one time.",70_G,NONE_0
+371,Abomasite,0,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Abomasnow hold it, and this stone will enable it to Mega Evolve",100_G,NONE_0
+372,Absolite,0,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Absol hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+373,Aerodactylite,0,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+374,Aggronite,0,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Aggron hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+375,Alakazite,0,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+376,Altarianite,0,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Altaria hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+377,Ampharosite,1,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+378,Audinite,1,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+379,Banettite,1,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Banette hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+380,Beedrillite,1,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+381,Blastoisinite,1,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+382,Blazikenite,1,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Blaziken hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+383,Cameruptite,2,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+384,Charizardite X,2,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+385,Charizardite Y,2,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+386,Diancite,2,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Diancie hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+387,Galladite,2,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Gallade hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+388,Garchompite,2,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Garchomp hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+389,Gardevoirite,3,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+390,Gengarite,3,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+391,Glalitite,3,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Glalie hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+392,Gyaradosite,3,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+393,Heracronite,3,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Heracross hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+394,Houndoominite,3,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Houndoom hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+395,Kangaskhanite,4,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+396,Latiasite,4,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Latias hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+397,Latiosite,4,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Latios hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+398,Lopunnite,4,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+399,Lucarionite,4,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Lucario hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+400,Manectite,4,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Manectric hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+401,Mawilite,5,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Mawile hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+402,Medichamite,5,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+403,Metagrossite,5,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Metagross hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+404,Mewtwonite X,5,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+405,Mewtwonite Y,5,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+406,Pidgeotite,5,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+407,Pinsirite,6,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+408,Sablenite,6,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Sableye hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+409,Salamencite,6,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Salamence hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+410,Sceptilite,6,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Sceptile hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+411,Scizorite,6,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Scizor hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+412,Sharpedonite,6,5,Mega stones,"One of a variety of mysterious Mega Stones. Have Sharpedo hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+413,Slowbronite,7,0,Mega stones,"One of a variety of mysterious Mega Stones. Have Slowbro hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+414,Steelixite,7,1,Mega stones,"One of a variety of mysterious Mega Stones. Have Steelix hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+415,Swampertite,7,2,Mega stones,"One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+416,Tyranitarite,7,3,Mega stones,"One of a variety of mysterious Mega Stones. Have Tyranitar hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+417,Venusaurite,7,4,Mega stones,"One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve ",100_G,NONE_0
+418,Aloraichium,0,0,Z crystals,It converts Z-Power into crystals that upgrade Alolan Raichu’s Thunderbolt to an exclusive Z-Move.,50_S,NONE_0
+419,Buginium,0,1,Z crystals,It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.,50_S,NONE_0
+420,Darkinium,0,2,Z crystals,It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.,50_S,NONE_0
+421,Decidium,0,3,Z crystals,It converts Z-Power into crystals that upgrade Decidueye’s Spirit Shackle to an exclusive Z-Move.,50_S,NONE_0
+422,Dragonium,0,4,Z crystals,It converts Z-Power into crystals that upgrade Dragon-type moves to Dragon-type Z-Moves.,50_S,NONE_0
+423,Eevium,1,0,Z crystals,It converts Z-Power into crystals that upgrade Eevee’s Last Resort to an exclusive Z-Move.,50_S,NONE_0
+424,Electrium,1,1,Z crystals,It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.,50_S,NONE_0
+425,Fairium,1,2,Z crystals,It converts Z-Power into crystals that upgrade Fairy-type moves to Fairy-type Z-Moves.,50_S,NONE_0
+426,Fightinium,1,3,Z crystals,It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.,50_S,NONE_0
+427,Firium,1,4,Z crystals,It converts Z-Power into crystals that upgrade Fire-type moves to Fire-type Z-Moves.,50_S,NONE_0
+428,Flyinium,2,0,Z crystals,It converts Z-Power into crystals that upgrade Flying-type moves to Flying-type Z-Moves.,50_S,NONE_0
+429,Ghostium,2,1,Z crystals,It converts Z-Power into crystals that upgrade Ghost-type moves to Ghost-type Z-Moves.,50_S,NONE_0
+430,Grassium,2,2,Z crystals,It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.,50_S,NONE_0
+431,Groundium,2,3,Z crystals,It converts Z-Power into crystals that upgrade Ground-type moves to Ground-type Z-Moves.,50_S,NONE_0
+432,Icium,2,4,Z crystals,It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.,50_S,NONE_0
+433,Incinium,3,0,Z crystals,It converts Z-Power into crystals that upgrade Incineroar’s Darkest Lariat to an exclusive Z-Move.,50_S,NONE_0
+434,Kommonium,3,1,Z crystals,It converts Z-Power into crystals that upgrade Kommo-o’s Clanging Scales to an exclusive Z-Move.,50_S,NONE_0
+435,Lunalium,3,2,Z crystals,It converts Z-Power into crystals that upgrade Lunala’s Moongeist Beam to an exclusive Z-Move.,50_S,NONE_0
+436,Lycanium,3,3,Z crystals,It converts Z-Power into crystals that upgrade Lycanroc’s Stone Edge to an exclusive Z-Move.,50_S,NONE_0
+437,Marshadium,3,4,Z crystals,It converts Z-Power into crystals that upgrade Marshadow’s Spectral Thief to an exclusive Z-Move.,50_S,NONE_0
+438,Mewnium,4,0,Z crystals,It converts Z-Power into crystals that upgrade Mew’s Psychic to an exclusive Z-Move.,50_S,NONE_0
+439,Mimikium,4,1,Z crystals,It converts Z-Power into crystals that upgrade Mimikyu’s Play Rough to an exclusive Z-Move.,50_S,NONE_0
+440,Normalium,4,2,Z crystals,It converts Z-Power into crystals that upgrade Normal-type moves to Normal-type Z-Moves.,50_S,NONE_0
+441,Pikanium,4,3,Z crystals,It converts Z-Power into crystals that upgrade Pikachu’s Volt Tackle to an exclusive Z-Move.,50_S,NONE_0
+442,Pikashunium,4,4,Z crystals,This is a crystallized form of Z-Power. It upgrades a Thunderbolt by Pikachu in a cap to a Z-Move.,50_S,NONE_0
+443,Poisonium,5,0,Z crystals,It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.,50_S,NONE_0
+444,Primarium,5,1,Z crystals,It converts Z-Power into crystals that upgrade Primarina’s Sparkling Aria to an exclusive Z-Move.,50_S,NONE_0
+445,Psychium,5,2,Z crystals,It converts Z-Power into crystals that upgrade Psychic-type moves to Psychic-type Z-Moves.,50_S,NONE_0
+446,Rockium,5,3,Z crystals,It converts Z-Power into crystals that upgrade Rock-type moves to Rock-type Z-Moves.,50_S,NONE_0
+447,Snorlium,5,4,Z crystals,It converts Z-Power into crystals that upgrade Snorlax’s Giga Impact to an exclusive Z-Move.,50_S,NONE_0
+448,Solganium,6,0,Z crystals,It converts Z-Power into crystals that upgrade Solgaleo’s Sunsteel Strike to an exclusive Z-Move.,50_S,NONE_0
+449,Steelium,6,1,Z crystals,It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.,50_S,NONE_0
+450,Tapunium,6,2,Z crystals,It converts Z-Power into crystals that upgrade the tapu’s Nature’s Madness to an exclusive Z-Move.,50_S,NONE_0
+451,Ultranecrozium,6,3,Z crystals,It’s a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.,50_S,NONE_0
+452,Waterium,6,4,Z crystals,It converts Z-Power into crystals that upgrade Water-type moves to Water-type Z-Moves.,50_S,NONE_0
+453,Bug Memory,0,0,Memories,A memory disc that contains Bug-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Bug
+454,Dark Memory,0,1,Memories,A  memory disc that contains Dark-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Dar
+455,Dragon Memory,0,2,Memories,A memory disc that contains Dragon-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Dra
+456,Electric Memory,1,0,Memories,A memory disc that contains Electric-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Ele
+457,Fairy Memory,1,1,Memories,A memory disc that contains Fairy-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Fai
+458,Fighting Memory,1,2,Memories,A memory disc that contains Fighting-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Fig
+459,Fire Memory,2,0,Memories,A memory disc that contains Fire-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Fir
+460,Flying Memory,2,1,Memories,A memory disc that contains Flying-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Fly
+461,Ghost Memory,2,2,Memories,A memory disc that contains Ghost-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Gho
+462,Grass Memory,3,0,Memories,A memory disc that contains Grass-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Gra
+463,Ground Memory,3,1,Memories,A memory disc that contains Ground-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Gro
+464,Ice Memory,3,2,Memories,A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Ice
+465,Poison Memory,4,0,Memories,A memory disc that contains Poison-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Poi
+466,Psychic Memory,4,1,Memories,A memory disc that contains Psychic-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Psy
+467,Rock Memory,4,2,Memories,A memory disc that contains Rock-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Roc
+468,Steel Memory,5,0,Memories,A memory disc that contains Steel-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Ste
+469,Water Memory,5,1,Memories,A memory disc that contains Water-type data. It changes the type of the holder if held by a certain species of Pokémon.,30_G,FORM_773_773Wat
+470,Roto Bargain,0,0,Rotom Powers,One of the Rotom Powers. It reduces the prices of products at Poké Marts by half but is currently malfunctioning.,100_B,NONE_0
+471,Roto Boost,0,1,Rotom Powers,One of the Rotom Powers. It raises all stats of your battling Pokémon.,100_B,NONE_0
+472,Roto Catch,0,2,Rotom Powers,One of the Rotom Powers. It increases the chance to catch Pokémon a lot.,100_B,NONE_0
+473,Roto Encounter,1,0,Rotom Powers,One of the Rotom Powers. It increases the chance of encountering high-level wild Pokémon a lot for a certain period of time.,100_B,NONE_0
+474,Roto Exp Points,1,1,Rotom Powers,One of the Rotom Powers. It increases the Exp. Points your Pokémon receive after battle a little.,100_B,NONE_0
+475,Roto Friendship,1,2,Rotom Powers,One of the Rotom Powers. It helps Pokémon in your party grow friendly faster.,100_B,NONE_0
+476,Roto Hatch,2,0,Rotom Powers,One of the Rotom Powers. It helps Eggs hatch faster.,100_B,NONE_0
+477,Roto Hp Restore,2,1,Rotom Powers,One of the Rotom Powers. Fully restores the HP of your battling Pokémon.,100_B,NONE_0
+478,Roto Pp Restore,2,2,Rotom Powers,One of the Rotom Powers. Fully restores the PP of your battling Pokémon.,100_B,NONE_0
+479,Roto Prize Money,3,0,Rotom Powers,One of the Rotom Powers. It triples the prize money you receive after battle.,100_B,NONE_0
+480,Roto Stealth,3,1,Rotom Powers,One of the Rotom Powers. It prevents you from encountering wild Pokémon for a certain period of time.,100_B,NONE_0
+481,Bug TR,0,0,Trs,The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.,100_S,NONE_0
+482,Dark TR,0,1,Trs,The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.,100_S,NONE_0
+483,Dragon TR,0,2,Trs,The user slashes the target with huge sharp claws.,100_S,NONE_0
+484,Electric TR,1,0,Trs,The user shrouds itself in electricity and smashes into its target. This also damages the user a little.,100_S,NONE_0
+485,Fairy TR,1,1,Trs,The user damages opposing Pokémon by emitting a powerful flash.,100_S,NONE_0
+486,Fighting TR,1,2,Trs,The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.,100_S,NONE_0
+487,Fire TR,2,0,Trs,The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This may leave the target with a burn.,100_S,NONE_0
+488,Flying TR,2,1,Trs,The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.,100_S,NONE_0
+489,Ghost TR,2,2,Trs,The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.,100_S,NONE_0
+490,Grass TR,3,0,Trs,The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.,100_S,NONE_0
+491,Ground TR,3,1,Trs,The user sets off an earthquake that strikes every Pokémon around it.,100_S,NONE_0
+492,Ice TR,3,2,Trs,A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.,100_S,NONE_0
+493,Normal TR,4,0,Trs,"The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.",100_S,EVOLVE_190_424
+494,Poison TR,4,1,Trs,The user launches countless toxic barbs to inflict damage. This may also poison the target. This move’s power is doubled if the target has a status condition.,100_S,EVOLVE_211H_904
+495,Psychic TR,4,2,Trs,"Cloaking itself in psychic energy, the user slams into the target. This may also raise the user’s defensive stats.",100_S,EVOLVE_234_899
+496,Rock TR,5,0,Trs,A 5-turn rolling attack that becomes stronger each time it hits.,100_S,EVOLVE_108_463
+497,Steel TR,5,1,Trs,"The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",100_S,NONE_0
+498,Water TR,5,2,Trs,The user attacks everything around it by swamping its surroundings with a giant wave.,100_S,NONE_0
+499,Bug TM,0,0,Tms,Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.,100_S,NONE_0
+500,Dark TM,0,1,Tms,The target is taunted into a rage that allows it to use only attack moves for three turns.,100_S,EVOLVE_852_853
+501,Dragon TM,0,2,Tms,The target is attacked with a shock wave generated by the user’s gaping mouth.,100_S,EVOLVE_803_804
+502,Electric TM,1,0,Tms,The target is punched with an electrified fist. This may also leave the target with paralysis.,100_S,NONE_0
+503,Electric TM,1,1,Tms,The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.,100_S,NONE_0
+504,Fairy TM,1,2,Tms,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target’s Attack stat.",100_S,EVOLVEFRIENDSHIP_133_700
+505,Fighting TM,2,0,Tms,"The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.",100_S,NONE_0
+506,Fire TM,2,1,Tms,"The user shoots a sinister, bluish-white flame at the target to inflict a burn.",100_S,NONE_0
+507,Flying TM,2,2,Tms,"The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",100_S,NONE_0
+508,Ghost TM,3,0,Tms,"The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",100_S,NONE_0
+509,Grass TM,3,1,Tms,The target is stomped with a big foot. This may also make the target flinch.,100_S,EVOLVE_762_763
+510,Ground TM,3,2,Tms,The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.,100_S,NONE_0
+511,Ice TM,4,0,Tms,The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.,100_S,NONE_0
+512,Normal TM,4,1,Tms,The user copies the target’s last move. The move can be used during battle until the Pokémon is switched out.,100_S,EVOLVE_438_185;EVOLVERANDOM_439_122_122G
+513,Poison TM,4,2,Tms,The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.,100_S,NONE_0
+514,Psychic TM,5,0,Tms,The user creates a bizarre area in which Pokémon’s Defense and Sp. Def stats are swapped for five turns.,100_S,NONE_0
+515,Rock TM,5,1,Tms,An ancient power is used to attack. It may also raise all the user’s stats.,100_S,EVOLVE_221_473;EVOLVE_221F_473F
+516,Steel TM,5,2,Tms,The user stabs the target with a sharp horn. This attack never misses.,100_S,NONE_0
+517,Water TM,6,0,Tms,The user cuts its target with sharp shells. This may also lower the target’s Defense stat.,100_S,NONE_0
+518,Blue Petal,0,0,Petals,A pressed flower petal from Lana. The goal is to collect seven different kinds of petals.,100_P,TREVENT_572
+519,Green Petal,0,1,Petals,A pressed flower petal from Mallow. The goal is to collect seven different kinds of petals.,100_P,TREVENT_576
+520,Orange Petal,1,0,Petals,A pressed flower petal from Ilima. The goal is to collect seven different kinds of petals.,100_P,TREVENT_613
+521,Pink Petal,1,1,Petals,A pressed flower petal from Mina. The goal is to collect seven different kinds of petals.,100_P,TREVENT_579
+522,Purple Petal,2,0,Petals,A pressed flower petal from Acerola. The goal is to collect seven different kinds of petals.,100_P,TREVENT_532
+523,Red Petal,2,1,Petals,A pressed flower petal from Kiawe. The goal is to collect seven different kinds of petals.,100_P,TREVENT_569
+524,Yellow Petal,3,0,Petals,A pressed flower petal from Sophocles. The goal is to collect seven different kinds of petals.,100_P,TREVENT_599
+525,Attack Mint,0,0,Mints,"When a Pokémon smells this mint, its nature will change.",60_G,NATURE_1_5
+526,Defense Mint,0,0,Mints,"When a Pokémon smells this mint, its nature will change.",60_G,NATURE_5_10
+527,Neutral Mint,0,0,Mints,"When a Pokémon smells this mint, its nature will change.",60_G,NATURE_0
+528,Sp.Atk Mint,0,0,Mints,"When a Pokémon smells this mint, its nature will change.",60_G,NATURE_15_20
+529,Sp.Def Mint,0,0,Mints,"When a Pokémon smells this mint, its nature will change.",60_G,NATURE_20_25
+530,Speed Mint,0,0,Mints,"When a Pokémon smells this mint, its nature will change.",60_G,NATURE_10_15
+531,Exp. Share,6,0,Others,An item to be held by a Pokémon. The holder gets a share of Exp. Points without eating.,100_B,NONE_0
+532,Luminous Moss,6,1,Others,An item to be held by a Pokémon. It boosts Sp. Def if the holder is hit with a Water-type attack. It can only be used once.,100_P,NONE_0
+533,Super Repel,6,2,Others,An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Super Repel.,100_P,NONE_0
+534,Festival Ticket,7,0,Others,A ticket that allows you to host a mission in Festival Plaza.,100_P,NONE_0
+535,Reveal Glass,7,1,Others,A looking glass that reveals the truth. It’s a mysterious glass that returns a Pokémon to its original shape.,100_G,FORM_641_641T;FORM_642_642T;FORM_905_905T
+536,Zygarde Cube,7,2,Others,An item to store Zygarde Cores and Cells. You can also use it to change Zygarde’s form.,100_G,FORMRANDOM_718_718T_718C
+537,Black Augurite,8,0,Evolution items,A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.,100_P,EVOLVE_123_900
+538,Peat Block,8,1,Evolution items,A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.,50_G,EVOLVENIGHT_217_901
+539,Linking Cord,8,2,Evolution items,A string exuding a mysterious energy that makes you feel a strange sense of connection. It’s loved by certain Pokémon.,50_G,EVOLVE_562G_867
+540,Blank Plate,5,2,Plates,"A stone tablet imbued with the essence of normalcy. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Normal type.",50_B,FORM_773_773
+541,Legend Plate,6,0,Plates,"A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is.",5000_P,FORM_773_773
+542,Large Leek,2,2,Curry ings,One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch’d like is unknown.,50_G,EVOLVE_83G_865
+543,Gigantamix,2,0,Curry ings,One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic.,500_G,GMAX
+544,Aguav Berry,0,0,Berry,,100_P,NONE_0
+545,Apicot Berry,0,1,Berry,,100_P,NONE_0
+546,Aspear Berry,0,2,Berry,,100_P,NONE_0
+547,Babiri Berry,0,3,Berry,,100_P,NONE_0
+548,Belue Berry,0,4,Berry,,100_P,NONE_0
+549,Bluk Berry,0,5,Berry,,100_P,NONE_0
+550,Charti Berry,0,6,Berry,,100_P,NONE_0
+551,Cheri Berry,1,0,Berry,,100_P,NONE_0
+552,Chesto Berry,1,1,Berry,,100_P,NONE_0
+553,Chilan Berry,1,2,Berry,,100_P,NONE_0
+554,Chople Berry,1,3,Berry,,100_P,NONE_0
+555,Coba Berry,1,4,Berry,,100_P,NONE_0
+556,Colbur Berry,1,5,Berry,,100_P,NONE_0
+557,Cornn Berry,1,6,Berry,,100_P,NONE_0
+558,Custap Berry,2,0,Berry,,100_P,NONE_0
+559,Durin Berry,2,1,Berry,,100_P,NONE_0
+560,Enigma Berry,2,2,Berry,,100_P,NONE_0
+561,Figy Berry,2,3,Berry,,100_P,NONE_0
+562,Ganlon Berry,2,4,Berry,,100_P,NONE_0
+563,Grepa Berry,2,5,Berry,,100_P,NONE_0
+564,Haban Berry,2,6,Berry,,100_P,NONE_0
+565,Hondew Berry,3,0,Berry,,100_P,NONE_0
+566,Iapapa Berry,3,1,Berry,,100_P,NONE_0
+567,Jaboca Berry,3,2,Berry,,100_P,NONE_0
+568,Kasib Berry,3,3,Berry,,100_P,NONE_0
+569,Kebia Berry,3,4,Berry,,100_P,NONE_0
+570,Kee Berry,3,5,Berry,,100_P,NONE_0
+571,Kelpsy Berry,3,6,Berry,,100_P,NONE_0
+572,Lansat Berry,4,0,Berry,,100_P,NONE_0
+573,Leppa Berry,4,1,Berry,,100_P,NONE_0
+574,Liechi Berry,4,2,Berry,,100_P,NONE_0
+575,Lum Berry,4,3,Berry,,100_P,NONE_0
+576,Mago Berry,4,4,Berry,,100_P,NONE_0
+577,Magost Berry,4,5,Berry,,100_P,NONE_0
+578,Maranga Berry,4,6,Berry,,100_P,NONE_0
+579,Micle Berry,5,0,Berry,,100_P,NONE_0
+580,Nanab Berry,5,1,Berry,,100_P,NONE_0
+581,Nomel Berry,5,2,Berry,,100_P,NONE_0
+582,Occa Berry,5,3,Berry,,100_P,NONE_0
+583,Oran Berry,5,4,Berry,,100_P,NONE_0
+584,Pamtre Berry,5,5,Berry,,100_P,NONE_0
+585,Passho Berry,5,6,Berry,,100_P,NONE_0
+586,Payapa Berry,6,0,Berry,,100_P,NONE_0
+587,Pecha Berry,6,1,Berry,,100_P,NONE_0
+588,Persim Berry,6,2,Berry,,100_P,NONE_0
+589,Petaya Berry,6,3,Berry,,100_P,NONE_0
+590,Pinap Berry,6,4,Berry,,100_P,NONE_0
+591,Pomeg Berry,6,5,Berry,,100_P,NONE_0
+592,Qualot Berry,6,6,Berry,,100_P,NONE_0
+593,Rabuta Berry,7,0,Berry,,100_P,NONE_0
+594,Rawst Berry,7,1,Berry,,100_P,NONE_0
+595,Razz Berry,7,2,Berry,,100_P,NONE_0
+596,Rindo Berry,7,3,Berry,,100_P,NONE_0
+597,Roseli Berry,7,4,Berry,,100_P,NONE_0
+598,Rowap Berry,7,5,Berry,,100_P,NONE_0
+599,Salac Berry,7,6,Berry,,100_P,NONE_0
+600,Shuca Berry,8,0,Berry,,100_P,NONE_0
+601,Sitrus Berry,8,1,Berry,,100_P,NONE_0
+602,Spelon Berry,8,2,Berry,,100_P,NONE_0
+603,Starf Berry,8,3,Berry,,100_P,NONE_0
+604,Tamato Berry,8,4,Berry,,100_P,NONE_0
+605,Tanga Berry,8,5,Berry,,100_P,NONE_0
+606,Wacan Berry,8,6,Berry,,100_P,NONE_0
+607,Watmel Berry,9,0,Berry,,100_P,NONE_0
+608,Wepear Berry,9,1,Berry,,100_P,NONE_0
+609,Wiki Berry,9,2,Berry,,100_P,NONE_0
+610,Yache Berry,9,3,Berry,,100_P,NONE_0
+611,Black Candy,0,0,Candies,,100_P,NONE_0
+612,Blue Candy,0,1,Candies,,100_P,NONE_0
+613,Brown Candy,1,0,Candies,,100_P,NONE_0
+614,Gray Candy,1,1,Candies,,100_P,NONE_0
+615,Green Candy,2,0,Candies,,100_P,NONE_0
+616,Pink Candy,2,1,Candies,,100_P,NONE_0
+617,Purple Candy,3,0,Candies,,100_P,NONE_0
+618,Red Candy,3,1,Candies,,100_P,NONE_0
+619,White Candy,4,0,Candies,,100_P,NONE_0
+620,Yellow Candy,4,1,Candies,,100_P,NONE_0
+621,Bachs Food Tin,0,0,Curry ings,,100_P,NONE_0
+622,Bobs Food Tin,0,1,Curry ings,,100_P,NONE_0
+623,Boiled Egg,0,2,Curry ings,,100_P,NONE_0
+624,Bread,0,3,Curry ings,,100_P,NONE_0
+625,Brittle Bones,0,4,Curry ings,,100_P,NONE_0
+626,Coconut Milk,1,0,Curry ings,,100_P,NONE_0
+627,Fancy Apple,1,1,Curry ings,,100_P,NONE_0
+628,Fresh Cream,1,2,Curry ings,,100_P,NONE_0
+629,Fried Food,1,3,Curry ings,,100_P,NONE_0
+630,Fruit Bunch,1,4,Curry ings,,100_P,NONE_0
+631,Instant Noodles,2,1,Curry ings,,100_P,NONE_0
+632,Mixed Mushrooms,2,3,Curry ings,,100_P,NONE_0
+633,Moomoo Cheese,2,4,Curry ings,,100_P,NONE_0
+634,Pack Of Potatoes,3,0,Curry ings,,100_P,NONE_0
+635,Packaged Curry,3,1,Curry ings,,100_P,NONE_0
+636,Pasta,3,2,Curry ings,,100_P,NONE_0
+637,Precooked Burger,3,3,Curry ings,,100_P,NONE_0
+638,Pungent Root,3,4,Curry ings,,100_P,NONE_0
+639,Salad Mix,4,0,Curry ings,,100_P,NONE_0
+640,Sausages,4,1,Curry ings,,100_P,NONE_0
+641,Smoke Poke Tail,4,2,Curry ings,,100_P,NONE_0
+642,Spice Mix,4,3,Curry ings,,100_P,NONE_0
+643,Tin Of Beans,4,4,Curry ings,,100_P,NONE_0
+644,Black Apricorn,0,0,Apricorns,,100_P,NONE_0
+645,Blue Apricorn,0,1,Apricorns,,100_P,NONE_0
+646,Green Apricorn,1,0,Apricorns,,100_P,NONE_0
+647,Pink Apricorn,1,1,Apricorns,,100_P,NONE_0
+648,Red Apricorn,2,0,Apricorns,,100_P,NONE_0
+649,White Apricorn,2,1,Apricorns,,100_P,NONE_0
+650,Yellow Apricorn,3,0,Apricorns,,100_P,NONE_0

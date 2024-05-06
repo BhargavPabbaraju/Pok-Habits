@@ -1,0 +1,614 @@
+ID,Name,row,col,gen,Type,Poke,Item
+1,Anabel,0,0,3,BF,,0
+2,Argenta,0,1,4,BF,,0
+3,Brandon,0,3,3,BF,,0
+4,Caitlin PT,0,6,4,BF,,0
+5,Dahlia,1,3,4,BF,,0
+6,Darach,1,4,4,BF,,0
+7,Greta,2,0,3,BF,,0
+8,Lucy,2,3,3,BF,,0
+9,Noland,3,2,3,BF,,0
+10,Palmer,3,5,4,BF,,0
+11,Spenser,4,4,3,BF,,0
+12,Thorton,4,0,4,BF,,0
+13,Tucker,5,2,3,BF,,0
+14,Archer LGPE,0,0,2,ETA,,0
+15,Archer,0,1,2,ETA,,0
+16,Ariana,0,2,2,ETA,,0
+17,Courtney,1,2,3,ETA,,0
+18,Jupiter,2,3,4,ETA,,0
+19,Mars,3,1,4,ETA,,0
+20,Matt,2,4,3,ETA,,0
+21,Oleana,1,1,8,ETA,,0
+22,Petrel,3,2,2,ETA,,0
+23,Proton,3,3,2,ETA,,0
+24,Saturn,3,9,4,ETA,,0
+25,Shelly,4,2,3,ETA,,0
+26,Tabitha,5,0,3,ETA,,0
+27,Flare Admin,4,4,6,ETA,,0
+28,Flare Admin F,10,4,6,ETA,,0
+29,Jessie,5,2,1,ETA,,0
+30,James,5,3,1,ETA,,0
+31,Rocket Grunt M,4,3,1,ETG,,0
+32,Rocket Grunt F,4,4,1,ETG,,0
+33,Aqua Grunt M,6,1,3,ETG,,0
+34,Aether Grunt M,3,5,7,ETG,,0
+35,Arcadia Grunt M,7,8,11,ETG,,0
+36,Flare Grunt M,4,5,6,ETG,,0
+37,Flare Grunt F,5,0,6,ETG,,0
+38,Galactic Grunt M,6,3,4,ETG,,0
+39,Galactic Grunt F,6,4,4,ETG,,0
+40,Neo Plasma Grunt M,13,5,5,ETG,,0
+41,Neo Plasma Grunt F,13,6,5,ETG,,0
+42,Agent Stranger,0,0,11,NPC,,0
+43,Alastor,0,1,11,NPC,,0
+44,Bill,1,2,1,NPC,,0
+45,Buck,0,4,4,NPC,,0
+46,Celio,2,0,1,NPC,,0
+47,Cheryl,0,9,4,NPC,,0
+48,Croft,0,6,11,NPC,,0
+49,Daisy,2,1,1,NPC,,0
+50,DJ Mary,1,0,2,NPC,,0
+51,Eggzekiel,0,8,11,NPC,,0
+52,Emmet,2,3,5,NPC,,0
+53,Eusine,1,4,2,NPC,,0
+54,Evelynn,1,0,11,NPC,,0
+55,Ingo,3,3,5,NPC,,0
+56,Johanna,2,2,4,NPC,,0
+57,Klara,0,3,8,NPC,,0
+58,Kurt,2,3,2,NPC,,0
+59,Looker,2,4,4,NPC,,0
+60,Marley,3,0,4,NPC,,0
+61,Mira,3,3,4,NPC,,0
+62,Mom,3,1,3,NPC,,0
+63,Mr. Fuji,4,0,1,NPC,,0
+64,Neddy,2,0,11,NPC,,0
+65,Nova,2,3,11,NPC,,0
+66,Quest,3,1,11,NPC,,0
+67,Riley,3,6,4,NPC,,0
+68,Sailor Moon,3,4,11,NPC,,0
+69,Scott,4,1,3,NPC,,0
+70,Seth,3,5,11,NPC,,0
+71,Shawn,3,6,11,NPC,,0
+72,Taylor,4,0,11,NPC,,0
+73,Yancy,3,1,6,NPC,,0
+74,Zinnia,10,4,3,NPC,,0
+75,Lillie,6,3,7,NPC,,0
+76,Red,0,0,1,PL,,0
+77,Red LGPE,0,1,1,PL,,0
+78,Leaf,0,2,1,PL,,0
+79,Brendan,0,5,3,PL,,0
+80,Brendan emerald,1,0,3,PL,,0
+81,Calem,0,2,6,PL,,0
+82,Dawn,1,5,4,PL,,0
+83,Dawn Pt,1,6,4,PL,,0
+84,Dawn Contest,1,7,4,PL,,0
+85,Dawn prof,1,8,4,PL,,0
+86,Edgar,0,7,11,PL,,0
+87,Elio,0,2,7,PL,,0
+88,Elio USUM,0,3,7,PL,,0
+89,Ellie,0,9,11,PL,,0
+90,Ethan,1,2,2,PL,,0
+91,Ethan Athlon,1,3,2,PL,,0
+92,Flax,1,1,11,PL,,0
+93,Gloria,0,1,8,PL,,0
+94,Hilbert,3,0,5,PL,,0
+95,Hilda,3,1,5,PL,,0
+96,Lucas,2,5,4,PL,,0
+97,Lucas Pt,2,6,4,PL,,0
+98,Lucas Contest,2,7,4,PL,,0
+99,Lux,2,9,4,PL,,0
+100,Lyra,2,5,2,PL,,0
+101,Lyra athlon,3,0,2,PL,,0
+102,May,3,0,3,PL,,0
+103,Natalie old,1,9,11,PL,,0
+104,Player Atlas M,2,4,11,PL,,0
+105,Player Atlas F,2,5,11,PL,,0
+106,Pluto,2,6,11,PL,,0
+107,Ray,3,3,11,PL,,0
+108,Rosa,4,3,5,PL,,0
+109,Scottie,1,2,8,PL,,0
+110,Selene,3,3,7,PL,,0
+111,Serena,1,5,6,PL,,0
+112,Shelley,3,8,11,PL,,0
+113,Skip,3,9,11,PL,,0
+114,Tony,4,2,11,PL,,0
+115,Red Athlete,4,3,11,PL,,0
+116,Orange Athlete,4,4,11,PL,,0
+117,Yellow Athlete,4,5,11,PL,,0
+118,Green Athlete,4,6,11,PL,,0
+119,Teal Athlete,4,7,11,PL,,0
+120,Blue Athlete,4,8,11,PL,,0
+121,Indigo Athlete,4,9,11,PL,,0
+122,Violet Athlete,5,0,11,PL,,0
+123,Pink Athlete,5,1,11,PL,,0
+124,Gray Athlete,5,2,11,PL,,0
+125,Red Cool,5,3,11,PL,,0
+126,Orange Cool,5,4,11,PL,,0
+127,Yellow Cool,5,5,11,PL,,0
+128,Green Cool,5,6,11,PL,,0
+129,Teal Cool,5,7,11,PL,,0
+130,Blue Cool,5,8,11,PL,,0
+131,Indigo Cool,5,9,11,PL,,0
+132,Violet Cool,6,0,11,PL,,0
+133,Pink Cool,6,1,11,PL,,0
+134,Gray Cool,6,2,11,PL,,0
+135,Red Popular,6,3,11,PL,,0
+136,Orange Popular,6,4,11,PL,,0
+137,Yellow Popular,6,5,11,PL,,0
+138,Green Popular,6,6,11,PL,,0
+139,Teal Popular,6,7,11,PL,,0
+140,Blue Popular,6,8,11,PL,,0
+141,Indigo Popular,6,9,11,PL,,0
+142,Violet Popular,7,0,11,PL,,0
+143,Pink Popular,7,1,11,PL,,0
+144,Gray Popular,7,2,11,PL,,0
+145,Trainer Cute,7,3,11,PL,,0
+146,Victor,1,3,8,PL,,0
+147,Vitor,7,4,11,PL,,0
+148,Kris,8,3,2,PL,,0
+149,Anima,0,2,11,PROF,,0
+150,Sycamore,0,0,6,PROF,,0
+151,Juniper,0,1,5,PROF,,0
+152,Bellis,0,4,11,PROF,,0
+153,Birch,0,2,3,PROF,,0
+154,Bridgette,1,1,3,PROF,,0
+155,Bridgette Bank,0,1,6,PROF,,0
+156,Cedric Juniper,1,0,5,PROF,,0
+157,Elm,1,1,2,PROF,,0
+158,Fennel,2,4,5,PROF,,0
+159,Heath,1,3,11,PROF,,0
+160,Kukui,2,0,7,PROF,,0
+161,Ojisan,3,4,4,PROF,,0
+162,Professor Oleanda,2,8,11,PROF,,0
+163,Professor Piper,2,9,11,PROF,,0
+164,Professor Slate,3,0,11,PROF,,0
+165,Rowan,3,8,4,PROF,,0
+166,Samson Oak,3,2,7,PROF,,0
+167,Samuel Oak,4,2,1,PROF,,0
+168,Telomere,4,1,11,PROF,,0
+169,Brunet,6,2,7,PROF,,0
+170,Blue,0,3,1,RIV,,0
+171,Azria,0,3,11,RIV,,0
+172,Barry,0,2,4,RIV,,0
+173,Bede,0,0,8,RIV,,0
+174,Benga,0,2,5,RIV,,0
+175,Bianca,0,3,5,RIV,,0
+176,Bianca B2W2,0,4,5,RIV,,0
+177,Cheren,1,1,5,RIV,,0
+178,Gladion,0,5,7,RIV,,0
+179,Hau,1,3,7,RIV,,0
+180,Hop,0,2,8,RIV,,0
+181,Hugh,3,2,5,RIV,,0
+182,Jack,1,6,11,RIV,,0
+183,N,4,1,5,RIV,,0
+184,Nate,4,2,5,RIV,,0
+185,Shauna,2,0,6,RIV,,0
+186,Silver,3,5,2,RIV,,0
+187,Tierno,2,2,6,RIV,,0
+188,Wally,5,4,3,RIV,,0
+189,Trevor,3,2,6,RIV,,0
+190,Ace Trainer M,4,2,4,TR,,0
+191,Ace Trainer F,4,3,4,TR,,0
+192,Ace Trainer M Snow,4,4,4,TR,,0
+193,Ace Trainer F Snow,4,5,4,TR,,0
+194,Ace Trainer M,4,2,2,TR,,0
+195,Ace Trainer F,4,3,2,TR,,0
+196,Ace Trainer M,5,0,5,TR,,0
+197,Ace Trainer F,5,1,5,TR,,0
+198,Ace Trainer M,7,7,11,TR,,0
+199,Ace Trainer M,6,2,3,TR,,0
+200,Arcadia Grunt F,7,9,11,TR,,0
+201,Aroma Lady,6,3,3,TR,,0
+202,Artist,5,2,5,TR,,0
+203,Artist,4,6,4,TR,,0
+204,Artist,3,3,6,TR,,0
+205,Artist,2,1,8,TR,,0
+206,Backer 1 M,5,3,5,TR,,0
+207,Backer 2 M,5,4,5,TR,,0
+208,Backer 1 F,5,5,5,TR,,0
+209,Backer 2 F,5,6,5,TR,,0
+210,Backpacker M,5,7,5,TR,,0
+211,Backpacker F,6,0,5,TR,,0
+212,Backpacker M,3,4,6,TR,,0
+213,Baker,6,1,5,TR,,0
+214,Battle Girl,6,2,5,TR,,0
+215,Battle Girl,4,8,4,TR,,0
+216,Battle Girl,4,4,2,TR,,0
+217,Battle Girl,6,4,3,TR,,0
+218,Beauty,4,5,2,TR,,0
+219,Beauty,4,9,4,TR,,0
+220,Beauty,6,3,5,TR,,0
+221,Beauty,4,0,7,TR,,0
+222,Beauty,3,5,6,TR,,0
+223,Beauty,2,2,8,TR,,0
+224,Beauty,6,5,3,TR,,0
+225,Beauty,2,3,8,TR,,0
+226,Biker,6,4,5,TR,,0
+227,Biker,5,0,2,TR,,0
+228,Bird Keeper,5,0,4,TR,,0
+229,Bird Keeper,5,1,2,TR,,0
+230,Bird Keeper,7,0,3,TR,,0
+231,Black Belt,6,5,5,TR,,0
+232,Black Belt,5,2,2,TR,,0
+233,Black Belt,5,1,4,TR,,0
+234,Black Belt,4,0,6,TR,,0
+235,Black Belt,4,1,7,TR,,0
+236,Black Belt,3,0,8,TR,,0
+237,Boarder,5,3,2,TR,,0
+238,Book Girl,8,0,11,TR,,0
+239,Bug Catcher,5,4,2,TR,,0
+240,Bug Catcher,5,2,4,TR,,0
+241,Bug Catcher,8,1,11,TR,,0
+242,Bug Catcher,8,2,11,TR,,0
+243,Burglar,5,5,2,TR,,0
+244,Butler,4,1,6,TR,,0
+245,Cabbie,3,1,8,TR,,0
+246,Cafe Master,3,2,8,TR,,0
+247,Cameraman,5,3,4,TR,,0
+248,Camper M,5,4,4,TR,,0
+249,Camper F,5,5,4,TR,,0
+250,Camper M,7,1,3,TR,,0
+251,Camper F,7,2,3,TR,,0
+252,Clerk,6,6,5,TR,,0
+253,Clerk,6,7,5,TR,,0
+254,Clerk F,7,0,5,TR,,0
+255,Clerk,3,3,8,TR,,0
+256,Clown M,5,6,4,TR,,0
+257,Clown F,8,3,11,TR,,0
+258,Collector,5,7,4,TR,,0
+259,Collector,4,0,8,TR,,0
+260,Cook,4,1,8,TR,,0
+261,Cyclist M,5,8,4,TR,,0
+262,Cyclist F,5,9,4,TR,,0
+263,Cyclist M,7,1,5,TR,,0
+264,Cyclist F,7,2,5,TR,,0
+265,Dancer,7,3,5,TR,,0
+266,Darkrai Follower,8,4,11,TR,,0
+267,Depot Agent,7,4,5,TR,,0
+268,Diver M,7,3,3,TR,,0
+269,Diver F,7,4,3,TR,,0
+270,Doctor,7,5,5,TR,,0
+271,Dragon Tamer,6,0,4,TR,,0
+272,Elder,6,0,2,TR,,0
+273,Expert,7,5,3,TR,,0
+274,Expert,6,1,4,TR,,0
+275,Explorer,8,5,11,TR,,0
+276,Fairy Tale Girl,4,2,6,TR,,0
+277,Firebreather,6,1,2,TR,,0
+278,Fisher,6,2,4,TR,,0
+279,Fisher,7,6,5,TR,,0
+280,Fisher,4,3,6,TR,,0
+281,Fisher,4,2,8,TR,,0
+282,Fisher,8,6,11,TR,,0
+283,Fisher,8,0,3,TR,,0
+284,Gambler,6,5,4,TR,,0
+285,Gardener M,5,1,6,TR,,0
+286,Gardener F,8,7,11,TR,,0
+287,Gentleman,6,6,4,TR,,0
+288,Gentleman,6,2,2,TR,,0
+289,Gentleman,7,7,5,TR,,0
+290,Gentleman,5,2,6,TR,,0
+291,Ghost F,8,8,11,TR,,0
+292,Ghost M,8,9,11,TR,,0
+293,Guard,9,0,11,TR,,0
+294,Harlequin,8,0,5,TR,,0
+295,Hex Maniac,5,3,6,TR,,0
+296,Hiker,6,7,4,TR,,0
+297,Hiker,8,1,5,TR,,0
+298,Hiker,5,4,6,TR,,0
+299,Hoopster,8,2,5,TR,,0
+300,Idol,6,8,4,TR,,0
+301,Infielder,8,3,5,TR,,0
+302,Janitor,8,4,5,TR,,0
+303,Jogger,6,9,4,TR,,0
+304,Juggler,6,3,2,TR,,0
+305,Kimono Girl,6,4,2,TR,,0
+306,Kindler,8,1,3,TR,,0
+307,Lady,8,5,5,TR,,0
+308,Lady,7,0,4,TR,,0
+309,Lady,8,2,3,TR,,0
+310,Lady,5,5,6,TR,,0
+311,Lass,5,0,1,TR,,0
+312,Lass,6,5,2,TR,,0
+313,Lass,8,3,3,TR,,0
+314,Lass,7,1,4,TR,,0
+315,Lass,8,6,5,TR,,0
+316,Lass,6,0,6,TR,,0
+317,Lass,9,1,11,TR,,0
+318,Lass,9,2,11,TR,,0
+319,Lass,4,3,8,TR,,0
+320,Linebreaker,8,7,5,TR,,0
+321,Lord,6,1,6,TR,,0
+322,Lost Soul,9,3,11,TR,,0
+323,Lost Soul,9,4,11,TR,,0
+324,Maid,9,0,5,TR,,0
+325,Maid,7,2,4,TR,,0
+326,Maid,6,2,6,TR,,0
+327,Medium,7,0,2,TR,,0
+328,Musician,7,3,4,TR,,0
+329,Musician,9,1,5,TR,,0
+330,Musician,9,2,5,TR,,0
+331,Ninja Boy,8,4,3,TR,,0
+332,Nurse,9,3,5,TR,,0
+333,Nurse,7,5,4,TR,,0
+334,Nurse,4,2,7,TR,,0
+335,Nursery Aide,9,4,5,TR,,0
+336,Officer,7,6,4,TR,,0
+337,Officer,9,5,5,TR,,0
+338,Officer,4,3,7,TR,,0
+339,Parasol Lady,9,6,5,TR,,0
+340,Parasol Lady,7,7,4,TR,,0
+341,Parasol Lady,8,5,3,TR,,0
+342,Pilot,9,7,5,TR,,0
+343,Plasma Grunt M,10,0,5,TR,,0
+344,Plasma Grunt F,10,1,5,TR,,0
+345,Pokefan M,7,8,4,TR,,0
+346,Pokefan F,7,9,4,TR,,0
+347,Pokefan M,10,2,5,TR,,0
+348,Pokefan F,10,3,5,TR,,0
+349,Pokefan F,9,0,3,TR,,0
+350,Pokefan M,6,3,6,TR,,0
+351,Pokefan F,6,4,6,TR,,0
+352,Poke Maniac,7,1,2,TR,,0
+353,Poke Maniac,9,5,11,TR,,0
+354,Pokemon Breeder F,8,1,4,TR,,0
+355,Pokemon Breeder M,8,2,4,TR,,0
+356,Pokemon Breeder M,10,4,5,TR,,0
+357,Pokemon Breeder F,10,5,5,TR,,0
+358,Pokemon Breeder M,9,1,3,TR,,0
+359,Pokemon Breeder F,9,2,3,TR,,0
+360,Pokemon Breeder M,6,5,6,TR,,0
+361,Pokemon Breeder F,7,0,6,TR,,0
+362,Pokemon Ranger M,8,3,4,TR,,0
+363,Pokemon Ranger F,8,4,4,TR,,0
+364,Pokemon Ranger M,10,6,5,TR,,0
+365,Pokemon Ranger F,10,7,5,TR,,0
+366,Pokemon Ranger M,7,1,6,TR,,0
+367,Pokemon Ranger F,7,2,6,TR,,0
+368,Postman,5,0,8,TR,,0
+369,Psychic M,8,5,4,TR,,0
+370,Psychic F,8,6,4,TR,,0
+371,Psychic M,11,2,5,TR,,0
+372,Psychic F,11,3,5,TR,,0
+373,Punk Girl,5,1,8,TR,,0
+374,Punk Guy,7,5,6,TR,,0
+375,Rancher F,8,7,4,TR,,0
+376,Rancher M,8,8,4,TR,,0
+377,Rancher F,4,5,7,TR,,0
+378,Rancher M,5,0,7,TR,,0
+379,Reporter,8,9,4,TR,,0
+380,Richy Boy,9,0,4,TR,,0
+381,Richy Boy,11,4,5,TR,,0
+382,Richy Boy,8,0,6,TR,,0
+383,Richy Boy,9,3,3,TR,,0
+384,Richy Boy,9,6,11,TR,,0
+385,Rising Star M,8,1,6,TR,,0
+386,Rising Star F,8,2,6,TR,,0
+387,Rising Star M,5,1,7,TR,,0
+388,Roller Skater M,8,3,6,TR,,0
+389,Roller Skater F,8,4,6,TR,,0
+390,Roughneck,9,1,4,TR,,0
+391,Roughneck,11,5,5,TR,,0
+392,Ruin Maniac,9,2,4,TR,,0
+393,Sage,7,2,2,TR,,0
+394,Sage,7,3,2,TR,,0
+395,Sailor,9,3,4,TR,,0
+396,Schoolkid M,9,4,4,TR,,0
+397,Schoolkid F,9,5,4,TR,,0
+398,Schoolkid M,7,4,2,TR,,0
+399,Schoolkid M,11,6,5,TR,,0
+400,Schoolkid F,11,7,5,TR,,0
+401,Schoolkid M,9,4,3,TR,,0
+402,Schoolkid F,9,5,3,TR,,0
+403,Schoolkid M,8,5,6,TR,,0
+404,Schoolkid F,9,0,6,TR,,0
+405,Scientist,9,6,4,TR,,0
+406,Scientist,7,5,2,TR,,0
+407,Scientist,12,0,5,TR,,0
+408,Scientist,12,1,5,TR,,0
+409,Scientist,9,1,6,TR,,0
+410,Scientist,9,2,6,TR,,0
+411,Scientist,5,2,7,TR,,0
+412,Scientist,9,7,11,TR,,0
+413,Scientist,9,8,11,TR,,0
+414,Skier,8,0,2,TR,,0
+415,Skier,9,7,4,TR,,0
+416,Skier,9,8,4,TR,,0
+417,Smasher,12,2,5,TR,,0
+418,Socialite,9,9,4,TR,,0
+419,Socialite,12,3,5,TR,,0
+420,Stargazer,9,9,11,TR,,0
+421,Stargazer,10,0,11,TR,,0
+422,Street Thug,10,0,3,TR,,0
+423,Street Thug,5,2,8,TR,,0
+424,Striker,12,4,5,TR,,0
+425,Super Nerd,8,1,2,TR,,0
+426,Surfer,5,3,7,TR,,0
+427,Surfer,10,1,11,TR,,0
+428,Teacher,12,5,5,TR,,0
+429,Tourist,9,3,6,TR,,0
+430,Trial Guide,5,4,7,TR,,0
+431,Triathlete,10,0,4,TR,,0
+432,Trick-or-Treater,10,2,11,TR,,0
+433,Trick-or-Treater,10,3,11,TR,,0
+434,Trick-or-Treater,10,4,11,TR,,0
+435,Trick-or-Treater,10,5,11,TR,,0
+436,Veteran,12,6,5,TR,,0
+437,Veteran,12,7,5,TR,,0
+438,Waiter,10,3,4,TR,,0
+439,Waiter,13,0,5,TR,,0
+440,Waiter,9,4,6,TR,,0
+441,Waitress,10,4,4,TR,,0
+442,Waitress,13,1,5,TR,,0
+443,Waitress,9,5,6,TR,,0
+444,Worker,13,2,5,TR,,0
+445,Worker,13,3,5,TR,,0
+446,Worker,10,5,4,TR,,0
+447,Worker,10,0,6,TR,,0
+448,Worker,10,1,6,TR,,0
+449,Worker,5,5,7,TR,,0
+450,Worker,5,3,8,TR,,0
+451,Worker,6,0,8,TR,,0
+452,Worker,5,1,1,TR,,0
+453,Youngster,10,6,4,TR,,0
+454,Youngster,8,2,2,TR,,0
+455,Youngster,13,4,5,TR,,0
+456,Youngster,10,7,11,TR,,0
+457,Youngster,6,1,8,TR,,0
+458,Youngster,10,2,6,TR,,0
+459,Youngster,10,3,3,TR,,0
+460,Youngster,6,2,8,TR,,0
+461,Swimmer,13,7,5,TR,,0
+462,Swimmer,10,3,6,TR,,0
+463,Swimmer,6,0,7,TR,,0
+464,Swimmer,6,1,7,TR,,0
+465,Swimmer,6,3,8,TR,,0
+466,Swimmer,10,7,4,TR,,0
+467,Kimono Girl,10,8,11,TR,,0
+468,Twins,10,8,4,TR,,0
+469,Twins,8,4,2,TR,,0
+470,Twins,10,5,6,TR,,0
+471,Baby,4,7,4,TRK,,0
+472,Ninja Boy,7,4,4,TRK,,0
+473,Pokekid,8,0,4,TRK,,0
+474,Preschooler,11,0,5,TRK,,0
+475,Preschooler,11,1,5,TRK,,0
+476,Preschooler,4,4,7,TRK,,0
+477,Preschooler,7,3,6,TRK,,0
+478,Preschooler,7,4,6,TRK,,0
+479,Tuber,10,1,4,TRK,,0
+480,Tuber,10,2,4,TRK,,0
+481,Tuber,10,1,3,TRK,,0
+482,Tuber,10,2,3,TRK,,0
+483,Tuber,10,6,11,TRK,,0
+484,Charon,0,8,4,ETP,,0
+485,Colress,1,6,5,ETP,,0
+486,Colress SM,0,1,7,ETP,,0
+487,Faba,0,4,7,ETP,,0
+488,Alder,0,0,5,CHA,636,0
+489,Cynthia,1,1,4,CHA,443F,0
+490,Diantha,0,4,6,CHA,280,437
+491,Iris B2W2,3,5,5,CHA,633,0
+492,Leon,1,0,8,CHA,4,0
+493,Steven,4,5,3,CHA,374,0
+494,Voltenstein,7,5,11,CHA,479,0
+495,Aaron,0,0,4,EF,415F,0
+496,Agatha,1,0,1,EF,92,438
+497,Agatha LGPE,1,1,1,EF,41,0
+498,Bertha,0,3,4,EF,449F,0
+499,Bruno,1,4,1,EF,66,0
+500,Caitlin,0,7,5,EF,574,0
+501,Drake,1,3,3,EF,371,457
+502,Drasna,0,5,6,EF,714,0
+503,Flint,2,0,4,EF,240,155
+504,Glacia,1,5,3,EF,363,0
+505,Grimsley,2,7,5,EF,624,0
+506,Hala,1,1,7,EF,739,0
+507,Hapu,1,2,7,EF,749,0
+508,Kahili,1,4,7,EF,731,0
+509,Karen,2,2,2,EF,228,0
+510,Lance,2,4,2,EF,147,0
+511,Lorelei,3,1,1,EF,131,0
+512,Lucian,2,8,4,EF,436,0
+513,Marshal,4,0,5,EF,532,0
+514,Molayne,2,5,7,EF,50A,0
+515,Nanu,3,0,7,EF,52A,0
+516,Olivia,3,1,7,EF,744,0
+517,Phoebe,3,4,3,EF,355,0
+518,Shauntal,4,5,5,EF,607,0
+519,Sidney,4,3,3,EF,359,0
+520,Siebold,2,1,6,EF,692,0
+521,Wikstrom,2,5,6,EF,679,0
+522,Will,4,1,2,EF,177,0
+523,Malva,4,7,5,EF,661,0
+524,Archie,0,1,3,ETL,318,460
+525,Cyrus,1,2,4,ETL,215,0
+526,Ghetsis,2,5,5,ETL,602,0
+527,Ghetsis B2W2,2,6,5,ETL,562,0
+528,Guzma,1,0,7,ETL,767,0
+529,Lusamine,2,2,7,ETL,793,0
+530,Maxie,2,5,3,ETL,323,0
+531,Brock,0,4,1,GL,74,0
+532,Acerola,0,0,7,GL,778,0
+533,Blaine,1,3,1,GL,58,0
+534,Brawly,0,4,3,GL,296,0
+535,Brycen,0,5,5,GL,615,0
+536,Bugsy,0,3,2,GL,123,0
+537,Burgh,0,6,5,GL,540,0
+538,Byron,0,5,4,GL,410,0
+539,Candice,0,7,4,GL,459F,419
+540,Cheren B2W2,1,2,5,GL,506,0
+541,Chili,1,3,5,GL,513,0
+542,Chip,0,5,11,GL,616,0
+543,Chuck,0,4,2,GL,60,0
+544,Cilan,1,4,5,GL,511,0
+545,Clair,0,5,2,GL,116,143
+546,Clay,1,5,5,GL,529,0
+547,Clemont,0,3,6,GL,694,0
+548,Crasher Wake,1,0,4,GL,418,0
+549,Cress,1,7,5,GL,515,0
+550,Drayden,2,0,5,GL,621,0
+551,Elesa,2,1,5,GL,587,0
+552,Elesa B2W2,2,2,5,GL,522,0
+553,Erika,2,2,1,GL,43,0
+554,Erika LGPE,2,3,1,GL,69,0
+555,Falkner,1,5,2,GL,16,454
+556,Fantina,1,9,4,GL,425,0
+557,Flannery,1,4,3,GL,324,0
+558,Florian,1,2,11,GL,708,0
+559,Gardenia,2,1,4,GL,406,166
+560,Giovanni,2,4,1,GL,111,0
+561,Grant,1,0,6,GL,696,0
+562,Ignatia,1,4,11,GL,554,0
+563,Irina,1,5,11,GL,619,0
+564,Iris,3,4,5,GL,610,0
+565,Jacqueline,1,7,11,GL,52G,0
+566,Janine,2,0,2,GL,167,0
+567,Jasmine,2,1,2,GL,95,0
+568,Juan,2,1,3,GL,370,0
+569,Kiawe,1,5,7,GL,104,0
+570,Koga,3,0,1,GL,88,0
+571,Korrina,1,1,6,GL,701,0
+572,Lana,2,1,7,GL,751,0
+573,Lenora,3,6,5,GL,504,0
+574,Liza,2,2,3,GL,337,0
+575,Lt. Surge,3,2,1,GL,100,0
+576,Mallow,2,3,7,GL,761,0
+577,Marlon,3,7,5,GL,592,0
+578,Maylene,3,2,4,GL,447,0
+579,Mina,2,4,7,GL,742,0
+580,Misty,3,3,1,GL,120,0
+581,Misty LGPE,3,4,1,GL,118,0
+582,Morty,3,1,2,GL,200,0
+583,Natalie,1,8,11,GL,216,0
+584,Nefer Isis,2,1,11,GL,605,0
+585,Norma,2,2,11,GL,108,0
+586,Norman,3,3,3,GL,287,0
+587,Olympia,1,3,6,GL,677,0
+588,Polaris,2,7,11,GL,554G,0
+589,Pryce,3,4,2,GL,220,0
+590,Rainy,3,2,11,GL,747,0
+591,Ramos,1,4,6,GL,671,0
+592,Roark,3,7,4,GL,408,0
+593,Roxanne,3,5,3,GL,299,0
+594,Roxanne ORAS,4,0,3,GL,299,0
+595,Roxie,4,4,5,GL,543,0
+596,Sabrina,4,1,1,GL,63,0
+597,Shay,3,7,11,GL,353,0
+598,Skyla,4,6,5,GL,580,0
+599,Sophocles,3,4,7,GL,777,0
+600,Tate,5,1,3,GL,338,0
+601,Valerie,2,3,6,GL,682,0
+602,Viola,2,4,6,GL,664,0
+603,Volkner,4,1,4,GL,239,0
+604,Wallace,5,3,3,GL,349,0
+605,Warren,7,6,11,GL,98,0
+606,Wattson,5,5,3,GL,309,0
+607,Whitney,4,0,2,GL,241,0
+608,Winona,6,0,3,GL,333,0
+609,Wulfric,3,0,6,GL,712,0
+610,Milo,2,0,8,GL,829,0
+611,Ryuki,6,4,7,GL,776,0
+612,Lysandre,1,2,6,ETL,667,0
+613,Ilima,6,5,7,GL,133,0

@@ -1,0 +1,217 @@
+﻿ID,Name,Row,Col,Cost,Exp,Fullness,Flavor,Berry
+1,Red Pokéblock,0,0,50_B,5,30,Spicy,0
+2,Red Pokéblock +,0,1,50_P,20,75,Spicy,0
+3,Yellow Pokéblock,0,2,50_B,5,30,Sour,0
+4,Yellow Pokéblock +,0,3,50_P,20,75,Sour,0
+5,Blue Pokéblock,0,4,50_B,5,30,Dry,0
+6,Blue Pokéblock +,0,5,50_P,20,75,Dry,0
+7,Green Pokéblock,0,6,50_B,5,30,Bitter,0
+8,Green Pokéblock +,0,7,50_P,20,75,Bitter,0
+9,Pink Pokéblock,0,8,50_B,5,30,Sweet,0
+10,Pink Pokéblock +,0,9,50_P,20,75,Sweet,0
+11,Rainbow Pokéblock,0,10,100_B,5,50,All,0
+12,Rainbow Pokéblock +,0,11,100_P,20,100,All,0
+13,Spicy Poffin,1,0,50_B,10,50,Spicy,0
+14,Spicy-Sour Poffin,1,1,50_B,10,30,Spicy_Sour,0
+15,Spicy-Dry Poffin,1,2,50_B,10,30,Spicy_Dry,0
+16,Spicy-Bitter Poffin,1,3,50_B,10,30,Spicy_Bitter,0
+17,Spicy-Sweet Poffin,1,4,50_B,10,30,Spicy_Sweet,0
+18,Sour Poffin,1,5,50_B,10,50,Sour,0
+19,Sour-Spicy Poffin,1,6,50_B,10,30,Sour_Spicy,0
+20,Sour-Dry Poffin,1,7,50_B,10,30,Sour_Dry,0
+21,Sour-Bitter Poffin,1,8,50_B,10,30,Sour_Bitter,0
+22,Sour-Sweet Poffin,1,9,50_B,10,30,Sour_Sweet,0
+23,Dry Poffin,1,10,50_B,10,50,Dry,0
+24,Dry-Spicy Poffin,1,11,50_B,10,30,Dry_Spicy,0
+25,Dry-Sour Poffin,2,0,50_B,10,30,Dry_Sour,0
+26,Dry-Bitter Poffin,2,1,50_B,10,30,Dry_Bitter,0
+27,Dry-Sweet Poffin,2,2,50_B,10,30,Dry_Sweet,0
+28,Bitter Poffin,2,3,50_B,10,50,Bitter,0
+29,Bitter-Spicy Poffin,2,4,50_B,10,30,Bitter_Spicy,0
+30,Bitter-Sour Poffin,2,5,50_B,10,30,Bitter_Sour,0
+31,Bitter-Dry Poffin,2,6,50_B,10,30,Bitter_Dry,0
+32,Bitter-Sweet Poffin,2,7,50_B,10,30,Bitter_Sweet,0
+33,Sweet Poffin,2,8,50_B,10,50,Sweet,0
+34,Sweet-Spicy Poffin,2,9,50_B,10,30,Sweet_Spicy,0
+35,Sweet-Sour Poffin,2,10,50_B,10,30,Sweet_Sour,0
+36,Sweet-Dry Poffin,2,11,50_B,10,30,Sweet_Dry,0
+37,Sweet-Bitter Poffin,3,0,50_B,10,30,Sweet_Bitter,0
+38,Foul Poffin,3,1,10_S,2,5,All,0
+39,Rich Poffin,3,4,30_S,4,5,All,0
+40,Overripe Poffin,3,3,50_S,8,5,All,0
+41,Mild Poffin,3,2,10_G,10,5,All,0
+42,Basic Citrus Puff,3,5,25_S,2,50,Sour,0
+43,Frosted Citrus Puff,3,6,50_S,4,50,Sour,0
+44,Fancy Citrus Puff,3,7,25_G,6,50,Sour,0
+45,Deluxe Citrus Puff,3,8,50_G,10,50,Sour,0
+46,Basic Mint Puff,3,9,25_S,2,50,Bitter,0
+47,Frosted Mint Puff,3,10,50_S,4,50,Bitter,0
+48,Fancy Mint Puff,3,11,25_G,6,50,Bitter,0
+49,Deluxe Mint Puff,4,0,50_G,10,50,Bitter,0
+50,Basic Sweet Puff,4,1,25_S,2,50,Sweet,0
+51,Frosted Sweet Puff,4,2,50_S,4,50,Sweet,0
+52,Fancy Sweet Puff,4,3,25_G,6,50,Sweet,0
+53,Deluxe Sweet Puff,4,4,50_G,10,50,Sweet,0
+54,Basic Mocha Puff,4,5,25_S,2,50,Dry,0
+55,Frosted Mocha Puff,4,6,50_S,4,50,Dry,0
+56,Fancy Mocha Puff,4,7,25_G,6,50,Dry,0
+57,Deluxe Mocha Puff,4,8,50_G,10,50,Dry,0
+58,Basic Spice Puff,4,9,25_S,2,50,Spicy,0
+59,Frosted Spice Puff,4,10,50_S,4,50,Spicy,0
+60,Fancy Spice Puff,4,11,25_G,6,50,Spicy,0
+61,Deluxe Spice Puff,5,0,50_G,10,50,Spicy,0
+62,Supreme Wish,5,1,100_B,20,100,Sweet,0
+63,Supreme Spring Puff,5,2,100_B,20,100,Sweet,0
+64,Supreme Summer Puff,5,3,100_B,20,100,Bitter,0
+65,Supreme Autumn Puff,5,4,100_B,20,100,Sour,0
+66,Supreme Honor Puff,5,6,100_B,20,100,Dry,0
+67,Supreme Winter Puff,5,5,100_B,20,100,Spicy,0
+68,Green Sphere,5,7,100_P,5,100,Bitter,0
+69,Red Sphere,5,8,100_P,5,100,Spicy,0
+70,Blue Sphere,5,9,100_P,5,100,Dry,0
+71,Pale Sphere,5,10,100_P,5,100,Sweet,0
+72,Prism Sphere,5,11,100_P,5,100,Sour,0
+73,Red Apricorn,6,0,5_S,5,5,Spicy,0
+74,Ylw Apricorn,6,1,5_S,5,5,Sour,0
+75,Blue Apricorn,6,2,5_S,5,5,Dry,0
+76,Green Apricorn,6,3,5_S,5,5,Bitter,0
+77,Pink Apricorn,6,4,5_S,5,5,Sweet,0
+78,White Apricorn,6,5,5_S,2,5,All,0
+79,Black Apricorn,6,6,5_S,10,5,All,0
+80,Fresh Water,6,7,120_S,200,100,All,0
+81,Soda Pop,6,8,150_S,250,100,All,0
+82,Lemonade,6,9,200_S,270,150,All,0
+83,Moomoo Milk,6,10,200_P,500,255,All,0
+84,Berry Juice,6,11,200_B,250,200,All,0
+85,Tea,7,0,75_G,75,75,All,0
+86,Honey,7,1,50_G,50,100,All,0
+87,Rage Candy Bar,7,2,250_P,250,255,All,0
+88,Lava Cookie,7,3,250_P,250,255,All,0
+89,Old Gateau,7,4,250_P,250,255,All,0
+90,Casteliacone,7,5,250_P,250,255,All,0
+91,Lumiose Galette,7,6,250_P,250,255,All,0
+92,Shalour Sable,7,7,250_P,250,255,All,0
+93,Pewter Crunchies,7,8,250_P,250,255,All,0
+94,Big Malasada,7,9,250_P,250,255,All,0
+95,Cheri Berry,7,10,15_S,10,5,Spicy,1
+96,Chesto Berry,7,11,15_S,10,5,Dry,1
+97,"	Pecha Berry",8,0,15_S,10,5,Sweet,1
+98,Rawst Berry,8,1,15_S,10,5,Bitter,1
+99,Aspear Berry,8,2,15_S,10,5,Sour,1
+100,Leppa Berry,8,3,25_S,10,5,Spicy_Sweet_Bitter_Sour,1
+101,Oran Berry,8,4,25_S,10,5,Spicy_Sweet_Bitter_Sour,1
+102,Persim Berry,8,5,25_S,10,5,Spicy_Sweet_Dry_Sour,1
+103,"	Lum Berry",8,6,25_S,10,5,Spicy_Sweet_Dry_Bitter,1
+104,Sitrus Berry,8,7,25_S,10,5,Sour_Sweet_Dry_Bitter,1
+105,Figy Berry,8,8,30_S,15,5,Spicy,1
+106,Wiki Berry,8,9,30_S,15,5,Dry,1
+107,Mago Berry,8,10,30_S,15,5,Sweet,1
+108,Aguav Berry,8,11,30_S,15,5,Bitter,1
+109,Iapapa Berry,9,0,30_S,15,5,Sour,1
+110,Razz Berry,9,1,20_S,10,5,Spicy_Dry,1
+111,Bluk Berry,9,2,20_S,10,5,Sweet_Dry,1
+112,Nanab Berry,9,3,20_S,10,5,Sweet_Bitter,1
+113,Wepear Berry,9,4,20_S,10,5,Sour_Bitter,1
+114,Pinap Berry,9,5,20_S,10,5,Sour_Spicy,1
+115,Pomeg Berry,9,6,20_S,10,5,Sweet_Spicy_Bitter,1
+116,Kelpsy Berry,9,7,20_S,10,5,Sour_Bitter_Dry,1
+117,Qualot Berry,9,8,20_S,10,5,Sweet_Spicy_Sour,1
+118,Hondew Berry,9,9,20_S,10,5,Spicy_Dry_Bitter,1
+119,"	Grepa Berry",9,10,20_S,10,5,Sweet_Dry_Sour,1
+120,Tamato Berry,9,11,40_S,20,5,Spicy,1
+121,Cornn Berry,10,0,40_S,20,5,Dry,1
+122,"	Magost Berry",10,1,40_S,20,5,Sweet,1
+123,"	Rabuta Berry",10,2,40_S,20,5,Bitter,1
+124,Nomel Berry,10,3,40_S,20,5,Sour,1
+125,Spelon Berry,10,4,40_S,30,5,Spicy,1
+126,Pamtre Berry,10,5,40_S,30,5,Dry,1
+127,Watmel Berry,10,6,40_S,30,5,Sweet,1
+128,"	Durin Berry",10,7,40_S,30,5,Bitter,1
+129,"Belue Berry	",10,8,40_S,30,5,Sour,1
+130,Occa Berry,10,9,20_S,15,5,Spicy_Sweet,1
+131,Passho Berry,10,10,20_S,15,5,Dry_Bitter,1
+132,"	Wacan Berry",10,11,20_S,15,5,Sweet_Sour,1
+133,Rindo Berry,11,0,20_S,15,5,Spicy_Bitter,1
+134,Yache Berry,11,1,20_S,15,5,Dry_Sour,1
+135,"	Chople Berry",11,2,20_S,15,5,Spicy_Bitter,1
+136,Kebia Berry,11,3,20_S,15,5,Dry_Sour,1
+137,Shuca Berry,11,4,20_S,15,5,Spicy_Sweet,1
+138,"	Coba Berry",11,5,20_S,15,5,Dry_Bitter,1
+139,Payapa Berry,11,6,20_S,15,5,Sweet_Sour,1
+140,Tanga Berry,11,7,45_S,20,5,Spicy_Sour,1
+141,Charti Berry,11,8,45_S,20,5,Dry_Spicy,1
+142,"	Kasib Berry",11,9,45_S,20,5,Dry_Sweet,1
+143,Haban Berry,11,10,45_S,20,5,Sweet_Bitter,1
+144,Colbur Berry,11,11,45_S,20,5,Sour_Bitter,1
+145,Babiri Berry,12,0,45_S,25,5,Spicy,1
+146,"	Chilan Berry",12,1,45_S,25,5,Dry,1
+147,"	Liechi Berry",12,2,15_G,30,10,Spicy_Sweet,1
+148,Ganlon Berry,12,3,15_G,30,10,Dry_Bitter,1
+149,"	Salac Berry",12,4,15_G,30,10,Sweet_Sour,1
+150,Petaya Berry,12,5,15_G,30,10,Spicy_Bitter,1
+151,Apicot Berry,12,6,15_G,30,10,Dry_Sour,1
+152,Lansat Berry,12,7,15_G,30,10,Spicy_Sweet_Sour,1
+153,Starf Berry,12,8,15_G,30,10,Spicy_Sweet_Sour_Dry_Bitter,1
+154,Enigma Berry,12,9,25_G,40,15,Spicy,1
+155,Micle Berry,12,10,25_G,40,15,Dry,1
+156,Custap Berry,12,11,25_G,40,15,Sweet,1
+157,Jaboca Berry,13,0,25_G,40,15,Bitter,1
+158,"	Rowap Berry",13,1,25_G,40,15,Sour,1
+159,Roseli Berry,13,2,25_G,40,15,Spicy_Sweet,1
+160,Kee Berry,13,3,25_G,40,15,Spicy_Bitter,1
+161,Maranga Berry,13,4,25_G,40,15,Sweet_Bitter,1
+162,Hopo Berry,13,5,25_G,40,15,Bitter_Sour,1
+163,Heal Powder,13,6,10_S,10,1,Bitter,2
+164,Energy Powder,13,7,10_S,10,1,Bitter,2
+165,Energy Root,13,8,20_S,20,2,Bitter,2
+166,Revival Herb,13,9,50_S,30,3,Bitter,2
+167,HP Up,13,10,30_S,10,10,All,0
+168,Protein,13,11,30_S,10,10,Spicy,0
+169,Iron,14,0,30_S,10,10,Dry,0
+170,Calcium,14,1,30_S,10,10,Bitter,0
+171,Zinc,14,2,30_S,10,10,Sour,0
+172,Carbos,14,3,30_S,10,10,Sweet,0
+173,PP Up,14,4,35_S,15,10,All,0
+174,PP Max,14,5,40_S,20,10,All,0
+175,Fiber,14,6,35_S,15,10,Spicy_Sweet,0
+176,Fats,14,7,35_S,15,10,Sour_Bitter,0
+177,Citrus,14,8,35_S,15,10,Bitter_Sweet,0
+178,Potassium,14,9,35_S,15,10,Dry_Sour,0
+179,Sweet Heart,14,10,40_S,20,10,Sweet,0
+180,Appy Berry,14,11,25_S,15,10,Sweet_Spicy_Sour_Dry_Bitter,1
+181,Black Candy,15,0,15_S,1,10,All,0
+182,Blue Candy,15,1,15_S,1,10,Dry,0
+183,Brown Candy,15,2,15_S,1,10,Spicy_Bitter_Sweet_Sour,0
+184,Gray Candy,15,3,15_S,1,10,All,0
+185,Green Candy,15,4,15_S,1,10,Bitter,0
+186,Pink Candy,15,5,15_S,1,10,Sweet,0
+187,Purple Candy,15,6,15_S,1,10,Spicy_Bitter_Sweet,0
+188,Red Candy,15,7,15_S,1,10,Spicy,0
+189,White Candy,15,8,15_S,1,10,All,0
+190,Yellow Candy,15,9,15_S,1,10,Sour,0
+191,Bachs Food Tin,15,10,745_G,200,100,All,0
+192,Bobs Food Tin,15,11,475_G,100,75,All,0
+193,Boiled Egg,16,0,100_G,50,50,All,0
+194,Bread,16,1,50_G,30,30,All,0
+195,Brittle Bones,16,2,100_G,50,50,All,0
+196,Coconut Milk,16,3,50_G,30,30,All,0
+197,Fancy Apple,16,4,50_G,30,30,All,0
+198,Fresh Cream,16,5,100_G,50,50,All,0
+199,Fried Food,16,6,745_G,200,100,All,0
+200,Fruit Bunch,16,7,475_G,100,75,All,0
+201,Instant Noodles,16,8,100_G,50,50,All,0
+202,Large Leek,16,9,50_G,30,30,All,0
+203,Mixed Mushrooms,16,10,50_G,30,30,All,0
+204,Moomoo Cheese,16,11,200_P,500,255,All,0
+205,Pack Of Potatoes,17,0,50_G,30,30,All,0
+206,Packaged Curry,17,1,100_G,50,50,All,0
+207,Pasta,17,2,100_G,50,50,All,0
+208,Precooked Burger,17,3,100_G,50,50,All,0
+209,Pungent Root,17,4,50_G,5,10,All,0
+210,Salad Mix,17,5,50_G,5,10,All,0
+211,Sausages,17,6,100_G,50,50,All,0
+212,Smoke Poke Tail,17,7,100_G,50,50,All,0
+213,Spice Mix,17,8,50_G,5,10,All,0
+214,Tin Of Beans,17,9,475_G,100,75,All,0
+215,Leaf,17,10,5_S,1,1,All,0
+216,Bread Crumb,17,11,5_S,1,1,All,0

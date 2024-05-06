@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 742244dc0b4c73a40a324decbd093a10
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 7
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hgss White Bold
+  fontNames:
+  - Hgss White Bold
+  fallbackFontReferences: []
+  customCharacters: "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\xE0\xE1\xE2\xE4\xE7\xE8\xE9\xEA\xEB\xEC\xED\xEE\xEF\xF1\xF2\xF3\xF4\xF6\xF9\xFA\xFB\xFC\xA1\xBF!?,.\u2026\xB7/\u2018\u2019\u201C\u201D\u201E\xAB\xBB()\u2642\u2640+-*#=&~:;\u2660\u2663\u2665\u2666\u2605\u25CE\u25CB\u25A1\u25B3\u25CA@\u266A%\u2600\u2601\u2602\u2603\u0100\u0101\u0102\u0103\u2934\u2935\u0104"
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

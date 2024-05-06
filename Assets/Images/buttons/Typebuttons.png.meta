@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 59de5af9d6c8f1a43819eef2d13f00a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2380820370015506924
+    second: Typebuttons_0
+  - first:
+      213: -1846685454251424678
+    second: Typebuttons_1
+  - first:
+      213: -6093432402503544188
+    second: Typebuttons_2
+  - first:
+      213: -1363897712127356226
+    second: Typebuttons_3
+  - first:
+      213: 4862159200759172514
+    second: Typebuttons_4
+  - first:
+      213: -1648374649854870391
+    second: Typebuttons_5
+  - first:
+      213: -436850466710016216
+    second: Typebuttons_6
+  - first:
+      213: 1869510838519657496
+    second: Typebuttons_7
+  - first:
+      213: 1002759101800327842
+    second: Typebuttons_8
+  - first:
+      213: -4287398067863980051
+    second: Typebuttons_9
+  - first:
+      213: 4393514894819949704
+    second: Typebuttons_10
+  - first:
+      213: -8369045288315941592
+    second: Typebuttons_11
+  - first:
+      213: -6623399501541265956
+    second: Typebuttons_12
+  - first:
+      213: -6195625214297421285
+    second: Typebuttons_13
+  - first:
+      213: 3345179270108578699
+    second: Typebuttons_14
+  - first:
+      213: 8824169123667400514
+    second: Typebuttons_15
+  - first:
+      213: 4681948014791099544
+    second: Typebuttons_16
+  - first:
+      213: 8471118251807367561
+    second: Typebuttons_17
+  - first:
+      213: -4022954415769553516
+    second: Typebuttons_18
+  - first:
+      213: -5502707077902064287
+    second: Typebuttons_19
+  - first:
+      213: 4083341829642523060
+    second: Typebuttons_20
+  - first:
+      213: 779667725458664551
+    second: Typebuttons_21
+  - first:
+      213: -5305348169558362033
+    second: Typebuttons_22
+  - first:
+      213: -1489495527496662191
+    second: Typebuttons_23
+  - first:
+      213: -1400453401969207215
+    second: Typebuttons_24
+  - first:
+      213: 7358160732542750517
+    second: Typebuttons_25
+  - first:
+      213: 1305189594861802963
+    second: Typebuttons_26
+  - first:
+      213: 4560788945555306369
+    second: Typebuttons_27
+  - first:
+      213: 7943519470015669728
+    second: Typebuttons_28
+  - first:
+      213: 3259366002136705097
+    second: Typebuttons_29
+  - first:
+      213: -8932526973963901929
+    second: Typebuttons_30
+  - first:
+      213: -1901900360475559922
+    second: Typebuttons_31
+  - first:
+      213: 2094454411888281011
+    second: Typebuttons_32
+  - first:
+      213: 7314520039465439086
+    second: Typebuttons_33
+  - first:
+      213: -5289256435647131517
+    second: Typebuttons_34
+  - first:
+      213: -1609613482702404527
+    second: Typebuttons_35
+  - first:
+      213: 1191447506105103656
+    second: Typebuttons_36
+  - first:
+      213: 7998056861390385124
+    second: Typebuttons_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Typebuttons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2340
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d9cc238f5a0120800000000000000
+      internalID: 2380820370015506924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2340
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54867f0d514f56e0800000000000000
+      internalID: -1846685454251424678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2340
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482dbe9a387cf6ba0800000000000000
+      internalID: -6093432402503544188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25eaec146721de0800000000000000
+      internalID: -1363897712127356226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2160
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc5a2480cd97340800000000000000
+      internalID: 4862159200759172514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2160
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c34aa4dfbcf19e0800000000000000
+      internalID: -1648374649854870391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f29c7a0deffe9f0800000000000000
+      internalID: -436850466710016216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1980
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f4b9d336d1f910800000000000000
+      internalID: 1869510838519657496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_8
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1980
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa291a17148aed00800000000000000
+      internalID: 1002759101800327842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de775424c2a1084c0800000000000000
+      internalID: -4287398067863980051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1800
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c712dd486e8fc30800000000000000
+      internalID: 4393514894819949704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_11
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1800
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d85c0c6ad2bdb80800000000000000
+      internalID: -8369045288315941592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2221ee35f414a0800000000000000
+      internalID: -6623399501541265956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1620
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a495481b7b40aa0800000000000000
+      internalID: -6195625214297421285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_14
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1620
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8382d892d67c6e20800000000000000
+      internalID: 3345179270108578699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2475a26c01fb57a70800000000000000
+      internalID: 8824169123667400514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_16
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1440
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940876d9ee99f040800000000000000
+      internalID: 4681948014791099544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_17
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1440
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816e490b257f8570800000000000000
+      internalID: 8471118251807367561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495777cf5489b28c0800000000000000
+      internalID: -4022954415769553516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ae96311572a3b0800000000000000
+      internalID: -5502707077902064287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1080
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1165472c1faa830800000000000000
+      internalID: 4083341829642523060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_21
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1080
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cecca5aafe1da00800000000000000
+      internalID: 779667725458664551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4874bfd2fd9f56b0800000000000000
+      internalID: -5305348169558362033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 900
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153470d95bf345be0800000000000000
+      internalID: -1489495527496662191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_24
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 900
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15853230d07909ce0800000000000000
+      internalID: -1400453401969207215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f407773307d1660800000000000000
+      internalID: 7358160732542750517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 720
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d516467507fc1210800000000000000
+      internalID: 1305189594861802963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_27
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 720
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1873a53c16d2b4f30800000000000000
+      internalID: 4560788945555306369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5eea41fdc0d3e60800000000000000
+      internalID: 7943519470015669728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 540
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e75e2c189b3d20800000000000000
+      internalID: 3259366002136705097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 540
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71469423b0a490480800000000000000
+      internalID: -8932526973963901929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08baa7e2b71b95e0800000000000000
+      internalID: -1901900360475559922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 360
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c9d2d03ff01d10800000000000000
+      internalID: 2094454411888281011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_33
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 360
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f40dec835628560800000000000000
+      internalID: 7314520039465439086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380dd43ab49c896b0800000000000000
+      internalID: -5289256435647131517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 180
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15408d9c01189a9e0800000000000000
+      internalID: -1609613482702404527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_36
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 180
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257be9b13fd88010800000000000000
+      internalID: 1191447506105103656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typebuttons_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efac84075ecefe60800000000000000
+      internalID: 7998056861390385124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
