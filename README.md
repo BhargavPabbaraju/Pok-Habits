@@ -14,5 +14,5 @@ Poké-Habits is a gamified task manager that integrates the charming world of Po
 - **Dynamic Inventory Management**: Manage your collected items and Pokémon in a responsive
 
 ## Screenshots
-<img src="https://drive.google.com/uc?id=1VW8gpP-YHwfAIZE0r4INGdPth3dawfuk"  height="500"/> <img src="https://drive.google.com/uc?id=17cuM-IBMibBN3tGdq5XMFYgoDmszEsHH"  height="500"/><img src="https://drive.google.com/uc?id=1fLri52_cleL1S-7T-Iqo9ZdkjKuxn6z0"  height="500"/><img src="https://drive.google.com/uc?id=12rkeXXQhk4aZu_JqtwQI088a4mDGaSjQ"  height="500"/><img src="https://drive.google.com/uc?id=17cuM-IBMibBN3tGdq5XMFYgoDmszEsHH"  height="500"/>
+<img src="https://drive.google.com/uc?id=1VW8gpP-YHwfAIZE0r4INGdPth3dawfuk"  height="500"/> <img src="https://drive.google.com/uc?id=17cuM-IBMibBN3tGdq5XMFYgoDmszEsHH"  height="500"/><img src="https://drive.google.com/uc?id=12rkeXXQhk4aZu_JqtwQI088a4mDGaSjQ"  height="500"/><img src="https://drive.google.com/uc?id=17cuM-IBMibBN3tGdq5XMFYgoDmszEsHH"  height="500"/>
 
